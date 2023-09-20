@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216432343824",
+    "project_id": "keri-shipper",
+    "storage_bucket": "keri-shipper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216432343824:android:818676d83cff94f2bcc395",
+        "android_client_info": {
+          "package_name": "com.example.keri_shipper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uELyBqC-410A8UvwN9OZMyLJhCllGeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
