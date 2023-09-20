@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
           title: "Vinaship",
           theme: getAppThemeData(),
           debugShowCheckedModeBanner: false,
-          initialRoute: '/login',
+          initialRoute: '/splash',
           getPages: Routes.routes,
         );
       },

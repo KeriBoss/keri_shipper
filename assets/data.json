@@ -1,0 +1,6114 @@
+[
+  {
+    "stt": "1976",
+    "id": "79059",
+    "name": "Phòng khám đa khoa (thuộc Cty TNHH Phòng khám đa khoa Sài Gòn)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "3A 35 Đường Tỉnh lộ 10, Phạm Văn Hai Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1979",
+    "id": "79064",
+    "name": "Phòng khám đa khoa thuộc Công ty TNHH MTV và DV Việt Phước",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "772 Tân Kú, Tân Quý, Phường Bình Hưng Hoà, Q. Bình Tân, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1980",
+    "id": "79066",
+    "name": "Phòng khám đa khoa (thuộc CN 6 - CTy TNHH TTYK Phước An)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "197, 198 Tôn Thất Thuyết Phường 3 Quận 4 Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1982",
+    "id": "79069",
+    "name": "Trạm y tế cơ quan Bệnh viện Đại học Y dược",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "215 Hồng Bàng , Phường 11, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1983",
+    "id": "79074",
+    "name": "Bệnh viện đa khoa Quốc ánh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "104, 110 Đường 54 KDC Tân Tạo, P. Tân Tạo, Quận Bình Tân, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1984",
+    "id": "79075",
+    "name": "Bệnh viện Lê Văn Thịnh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 1",
+    "address": "130 Lê Văn Thịnh, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1985",
+    "id": "79076",
+    "name": "Bệnh viện giao thông vận tải Tp HCM",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "72/3 Trần Quèc Toản, Phường 8, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1986",
+    "id": "79081",
+    "name": "Trạm y tế phường Nguyễn Thái Bình - Quận 1",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Nguyễn Thái Bình, Quận 1, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "1987",
+    "id": "79084",
+    "name": "Trạm y tế phường Cô Giang - Quận 1",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1988",
+    "id": "79087",
+    "name": "Trạm y tế phường Thạnh Xuân - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1989",
+    "id": "79088",
+    "name": "Trạm y tế phường Thạnh Lộc - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1990",
+    "id": "79089",
+    "name": "Trạm y tế phường Hiệp Thành - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1991",
+    "id": "79090",
+    "name": "Trạm y tế phường Thới An - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Thới An, Quận 12, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2040",
+    "id": "79092",
+    "name": "Trạm y tế phường An Phú Đông - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2041",
+    "id": "79093",
+    "name": "Trạm y tế phường Tân Thới Hiệp - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2042",
+    "id": "79095",
+    "name": "Trạm y tế phường Đông Hưng Thuận - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Đông Hưng Thuận, Quận 12, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2058",
+    "id": "79134",
+    "name": "Trạm y tế Phường 13 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 13, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2059",
+    "id": "79135",
+    "name": "Trạm y tế Phường 11 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 11, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2115",
+    "id": "79136",
+    "name": "Trạm y tế Phường 27 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 27, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2116",
+    "id": "79139",
+    "name": "Trạm y tế Phường 25 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2117",
+    "id": "79142",
+    "name": "Trạm y tế Phường 24 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 24, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2118",
+    "id": "79143",
+    "name": "Trạm y tế Phường 06 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 06, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2119",
+    "id": "79145",
+    "name": "Trạm y tế Phường 15 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 15, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2120",
+    "id": "79148",
+    "name": "Trạm y tế Phường 03 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 03, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2121",
+    "id": "79149",
+    "name": "Trạm y tế Phường 17 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 17, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2122",
+    "id": "79150",
+    "name": "Trạm y tế Phường 21 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2123",
+    "id": "79152",
+    "name": "Trạm y tế Phường 19 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 19, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2124",
+    "id": "79153",
+    "name": "Trạm y tế Phường 28 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 28, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2125",
+    "id": "79163",
+    "name": "Trạm y tế Phường 10 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 10, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2126",
+    "id": "79168",
+    "name": "Trạm y tế Phường 15 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 15, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2128",
+    "id": "79170",
+    "name": "Trạm y tế phường Tây Thạnh - Quận Tân Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2129",
+    "id": "79172",
+    "name": "Trạm y tế phường Tân Quý - Quận Tân Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Quý, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2130",
+    "id": "79173",
+    "name": "Trạm y tế phường Tân Thành - Quận Tân Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Thành, Quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2132",
+    "id": "79174",
+    "name": "Trạm y tế phường Phú Thọ Hoà - Quận Tân Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Phú Thọ Hoà, Quận Tân Phú, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2133",
+    "id": "79179",
+    "name": "Trạm y tế phường Tân Thới Hoà - Quận Tân Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2134",
+    "id": "79185",
+    "name": "Trạm y tế Phường 01 - Quận Phú Nhuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2135",
+    "id": "79186",
+    "name": "Trạm y tế Phường 02 - Quận Phú Nhuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 02, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2173",
+    "id": "79001",
+    "name": "Bệnh viện đa khoa Sài Gòn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "125 Lê Lợi, Phường Bến Thành , Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2174",
+    "id": "79002",
+    "name": "Phòng khám đa khoa (thuộc CN Cty CP ĐT Khang Minh - TTYK Kỳ Hòa)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "266, 268 Đường 3/2 Phường 12 Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2175",
+    "id": "79004",
+    "name": "Bệnh viện Quận 1 - Cơ sở 2",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "235 237 Trần Hưng Đạo , Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2176",
+    "id": "79011",
+    "name": "Bệnh viện 30/4",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "09 Sư Vạn Hành, Phường 9, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2177",
+    "id": "79012",
+    "name": "Bệnh viện An Bình",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "146 An Bình, Phường 7, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2178",
+    "id": "79014",
+    "name": "Bệnh viện Nguyễn Trãi",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "314 Nguyễn Trãi, Phường 8, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2179",
+    "id": "79016",
+    "name": "Bệnh viện Quân y 7A",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "466 Nguyễn Trãi, Phường 8, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2180",
+    "id": "79017",
+    "name": "Bệnh viện Quận 6",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Số D2 Đường Chợ Lớn P11, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2181",
+    "id": "79019",
+    "name": "Bệnh viện Quận 7",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "101 Nguyễn Thị Thập, Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2182",
+    "id": "79021",
+    "name": "Bệnh viện Quận 8",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "82 Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2183",
+    "id": "79023",
+    "name": "Bệnh viện đa khoa Bưu Điện - Cơ sở I",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Lô B9 Đường Thành Thái, Phường 15, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2184",
+    "id": "79025",
+    "name": "Bệnh viện Thống Nhất",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "01 Lý Thường Kiệt, Phường 7, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2185",
+    "id": "79027",
+    "name": "Trung tâm Y tế Quận 10 - Cơ sở 4",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "571 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2186",
+    "id": "79029",
+    "name": "Bệnh viện Quận 12",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "111 Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2187",
+    "id": "79199",
+    "name": "Trạm y tế phường Bình Trưng Tây - Quận 2",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2188",
+    "id": "79209",
+    "name": "Trạm y tế Phường 12 - Quận 3",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 12, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2189",
+    "id": "79216",
+    "name": "Trạm y tế Phường 05 - Quận 3",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 05, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2190",
+    "id": "79221",
+    "name": "Trạm y tế Phường 13 - Quận 10",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 13, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2191",
+    "id": "79226",
+    "name": "Trạm y tế Phường 09 - Quận 10",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 09, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2192",
+    "id": "79230",
+    "name": "Trạm y tế Phường 04 - Quận 10",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 04, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2193",
+    "id": "79233",
+    "name": "Trạm y tế Phường 06 - Quận 10",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 06, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2194",
+    "id": "79237",
+    "name": "Trạm y tế Phường 14 - Quận 11",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 14, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2195",
+    "id": "79246",
+    "name": "Trạm y tế Phường 06 - Quận 11",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 06, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2196",
+    "id": "79278",
+    "name": "Trạm y tế Phường 06 - Quận 5",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 06, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2197",
+    "id": "79279",
+    "name": "Trạm y tế Phường 10 - Quận 5",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 10, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2198",
+    "id": "79282",
+    "name": "Trạm y tế Phường 13 - Quận 6",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 13, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2199",
+    "id": "79286",
+    "name": "Trạm y tế Phường 05 - Quận 6",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 05, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2200",
+    "id": "79300",
+    "name": "Trạm y tế Phường 09 - Quận 8",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 09, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2201",
+    "id": "79312",
+    "name": "Trạm y tế phường Bình Hưng Hòa A - Quận Bình Tân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Binh Hưng Hoà A, Quận Bình Tân, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2241",
+    "id": "79030",
+    "name": "Bệnh viện Nhân Dân Gia Định",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "01 Nơ Trang Long Phường 14, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2242",
+    "id": "79031",
+    "name": "Bệnh viện Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "132 Lê Văn Duyệt, Phường 1, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2243",
+    "id": "79032",
+    "name": "Bệnh viện Quận Phú Nhuận",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "274 Nguyễn Trọng Tuyển , Phường 8, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2244",
+    "id": "79033",
+    "name": "Bệnh viện Quận Tân Bình",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "605 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2245",
+    "id": "79034",
+    "name": "Bệnh viện 175",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "786 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2246",
+    "id": "79035",
+    "name": "Bệnh viện Quận Gò Vấp",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "212 Lê Đức Thọ, Phường 15, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2248",
+    "id": "79040",
+    "name": "Bệnh viện đa khoa khu vực Củ Chi",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Quốc lộ 22, Đường Nguyễn Văn Hoài, ấp Bầu Tre 2, Xã An Hội, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2249",
+    "id": "79041",
+    "name": "Bệnh viện đa khoa khu vực Hóc Môn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "62/2B Bà Triệu, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2250",
+    "id": "79042",
+    "name": "Trung tâm y tế huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "ấp Miễu, Xã Cần Thạnh, Huyện Cần Giờ, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2251",
+    "id": "79046",
+    "name": "Phòng khám đa khoa (Thuộc Cty TNHH MTV Phòng khám ĐK Lê Minh Xuân)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "B23/474 Trần Đại Nghĩa, Tân Nhật, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2252",
+    "id": "79048",
+    "name": "Bệnh viện Chợ Rẫy",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng đặc biệt",
+    "address": "201 B Nguyễn Chí Thanh, Phường 12, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2253",
+    "id": "79049",
+    "name": "Trung tâm y tế Cao Su",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Hạng 3",
+    "address": "20 Phan Đình Giót, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2254",
+    "id": "79053",
+    "name": "Bệnh viện Quận 8 (Phòng khám Xóm Củi)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "379 Tùng Thiện Vương, Phường 12, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2255",
+    "id": "79055",
+    "name": "Bệnh viện Quận Bình Tân",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 1",
+    "address": "809 Hương lé 2, P. Bình Trị Đông A, Quận Bình Tân, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2257",
+    "id": "79328",
+    "name": "Trạm y tế phường Tân Phú - Quận 7",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2258",
+    "id": "79331",
+    "name": "Trạm y tế Thị trấn Củ Chi - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị trấn Củ Chi, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2259",
+    "id": "79333",
+    "name": "Trạm y tế xã An Phú - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã An Phú, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2260",
+    "id": "79334",
+    "name": "Trạm y tế Xã Trung Lập Thượng - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Lập Thượng, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2261",
+    "id": "79335",
+    "name": "Trạm y tế xã An Nhơn Tây - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã An Nhơn Tây, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2262",
+    "id": "79336",
+    "name": "Trạm y tế xã Nhuận Đức - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nhuận Đức, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2263",
+    "id": "79337",
+    "name": "Trạm y tế xã Phạm Văn Cội - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phạm Văn Cội, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2264",
+    "id": "79339",
+    "name": "Trạm y tế Xã Trung Lập Hạ - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Lập Hạ, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2265",
+    "id": "79340",
+    "name": "Trạm y tế Xã Trung An - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung An, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2266",
+    "id": "79342",
+    "name": "Trạm y tế xã Phước Hiệp - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phước Hiệp, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2267",
+    "id": "79344",
+    "name": "Trạm y tế xã Phước Vĩnh An - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phước Vĩnh An, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2268",
+    "id": "79345",
+    "name": "Trạm y tế xã Thái Mỹ - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thái Mỹ, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2269",
+    "id": "79346",
+    "name": "Trạm y tế xã Tân Thạnh Tây - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Thạnh Tây, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2270",
+    "id": "79348",
+    "name": "Trạm y tế xã Tân Thạnh Đông - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Thạnh Đông, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2271",
+    "id": "79349",
+    "name": "Trạm y tế xã Bình Mỹ - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2272",
+    "id": "79353",
+    "name": "Trạm y tế xã Tân Hiệp - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Hiệp, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2273",
+    "id": "79354",
+    "name": "Trạm y tế xã Nhị Bình - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nhị Bình, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2324",
+    "id": "79355",
+    "name": "Trạm y tế xã Đông Thạnh - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đông Thạnh, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2325",
+    "id": "79358",
+    "name": "Trạm y tế xã Xuân Thới Sơn - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Thới Sơn, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2326",
+    "id": "79360",
+    "name": "Trạm y tế xã Xuân Thới Đông - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Thới Đông, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2327",
+    "id": "79361",
+    "name": "Trạm y tế Xã Trung Chánh - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Chánh, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2328",
+    "id": "79362",
+    "name": "Trạm y tế xã Xuân Thới Thượng - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2329",
+    "id": "79363",
+    "name": "Trạm y tế xã Bà Điểm - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bà Điểm, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2330",
+    "id": "79365",
+    "name": "Trạm y tế xã Phạm Văn Hai - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phạm Văn Hai, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2331",
+    "id": "79366",
+    "name": "Trạm y tế xã Vĩnh Lộc A - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vĩnh Lộc A, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2332",
+    "id": "79369",
+    "name": "Trạm y tế xã Lê Minh Xuân - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lê Minh Xuân, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2333",
+    "id": "79370",
+    "name": "Trạm y tế xã Tân Nhựt - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Nhựt, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2334",
+    "id": "79372",
+    "name": "Trạm y tế xã Bình Hưng - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bình Hưng, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2335",
+    "id": "79373",
+    "name": "Trạm y tế xã Phong Phú - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phong Phú, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2336",
+    "id": "79374",
+    "name": "Trạm y tế xã An Phú Tây - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã An Phú Tây, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2337",
+    "id": "79375",
+    "name": "Trạm y tế xã Hưng Long - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hưng Long, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2338",
+    "id": "79376",
+    "name": "Trạm y tế xã Đa Phước - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đa Phước, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2339",
+    "id": "79377",
+    "name": "Trạm y tế xã Tân Quy Tây - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Quý Tây, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2340",
+    "id": "79378",
+    "name": "Trạm y tế xã Bình Chánh - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bình Chánh, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2386",
+    "id": "79379",
+    "name": "Trạm y tế xã Quy Đức - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quy Đức, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2387",
+    "id": "79383",
+    "name": "Trạm y tế xã Nhơn Đức - huyện Nhà Bè",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nhơn Đức, Huyện Nhà Bè, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2388",
+    "id": "79387",
+    "name": "Trạm y tế Thị trấn Cần Thạnh - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị trấn Cần Thạnh, Huyện Cần Giờ, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2389",
+    "id": "79388",
+    "name": "Trạm y tế xã Bình Khánh - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bình Khánh, Huyện Cần Giờ, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2390",
+    "id": "79389",
+    "name": "Trạm y tế xã Tam Thôn Hiệp - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tam Thôn Hiệp, Huyện Cần Giờ, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2391",
+    "id": "79390",
+    "name": "Trạm y tế xã An Thới Đông - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã An Thới Đông, Huyện Cần Giờ, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2392",
+    "id": "79391",
+    "name": "Trạm y tế xã Thạnh An - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thạnh An, Huyện Cần Giờ, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2393",
+    "id": "79392",
+    "name": "Trạm y tế xã Long Hòa - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Long Hòa, Huyện Cần Giờ, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2394",
+    "id": "79393",
+    "name": "Trạm y tế xã Lý Nhơn - huyện Cần Giờ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lý Nhơn, Huyện Cần Giờ, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "2395",
+    "id": "79394",
+    "name": "Bệnh viện Bệnh nhiệt đới",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "764 Võ Văn Kiệt, Phường 1, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2396",
+    "id": "79397",
+    "name": "Bệnh viện Bình Dân",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "371 Điện Biên Phủ, Phường 4, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2397",
+    "id": "79398",
+    "name": "Bệnh viện Chấn thương chỉnh hình",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "929 Trần Hưng Đạo, Phường 1, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2398",
+    "id": "79399",
+    "name": "Bệnh viện Da Liễu",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "02 Nguyễn Thông, Phường 6, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2440",
+    "id": "79411",
+    "name": "Trạm y tế cơ quan Công ty TNHH Việt Nam Samho",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "ấp Thạnh An, Xã Trung An, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2441",
+    "id": "79414",
+    "name": "Bệnh viện Từ Dũ",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "284 Cống Quỳnh, Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2444",
+    "id": "79422",
+    "name": "Bệnh viện Tai Mũi Họng",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "155 Trần Quốc Thảo, Phường 9, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2445",
+    "id": "79424",
+    "name": "Bệnh viện Y học cổ truyền",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "179 Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2448",
+    "id": "79427",
+    "name": "Bệnh viện Tâm Thần TP Hồ Chí Minh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "766 Võ Văn Kiệt, Phường 1, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2449",
+    "id": "79428",
+    "name": "Bệnh viện truyền máu huyết học",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "118 Hùng Vương, Phường 12, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2450",
+    "id": "79432",
+    "name": "Bệnh viện Mắt Sài Gòn II",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "100 Lê Thị Riêng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2493",
+    "id": "79686",
+    "name": "Phòng khám đa khoa thuộc Công ty TNHH Y khoa Tâm Bình Medic",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "245 Đường Nguyễn Văn Tăng, Phường Long Thạnh Mỹ, Tp. Thủ Đức, Tp. Hồ Chí Minh"
+  },
+  {
+    "stt": "2501",
+    "id": "79435",
+    "name": "Bệnh viện Mắt Cao Thắng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "135B Trần Bình Trọng, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2502",
+    "id": "79437",
+    "name": "Bệnh viện đa khoa tư nhân An Sinh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "10 Trần Huy Liệu, Phường 11, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2503",
+    "id": "79441",
+    "name": "Bệnh viện chuyên khoa ngoại thần kinh Quốc tế",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "65A Lũy Bán Bích, Phường Tân Thới Hòa, Quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2505",
+    "id": "79449",
+    "name": "Trạm y tế cơ quan Bệnh viện Chợ Rẫy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "201B Nguyễn Chí Thanh, P.12, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2508",
+    "id": "79461",
+    "name": "Bệnh viện Chỉnh hình và phục hồi chức năng TP.Hồ Chí Minh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "1A Lý Thường Kiệt, P 7, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2565",
+    "id": "79469",
+    "name": "Phòng khám đa khoa thuộc công ty TNHH TTYK Hoàng Khang",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "285 Bà Hom, P. 13, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2566",
+    "id": "79471",
+    "name": "Bệnh viện Mắt Việt Hàn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "355, 365 Ngô Gia Tự, P 3, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2567",
+    "id": "79472",
+    "name": "Bệnh viện Phương Đông",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "79 Thành Thái, P 14, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2568",
+    "id": "79475",
+    "name": "Trạm Y tế Trung tâm nuôi dưỡng bảo trợ người bại liệt Thạnh Lộc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "106/14 D Phường 17, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2569",
+    "id": "79483",
+    "name": "Phòng khám đa khoa (thuộc CTy CP TT y khoa Thành Công)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "36 Tân Thạnh Phường Tân Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2570",
+    "id": "79484",
+    "name": "Trạm Y tế phường Tân Hưng Thuận - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2571",
+    "id": "79486",
+    "name": "Phòng khám đa khoa (thuộc CTy TNHH Phòng khám đa khoa Quốc tế An Phú)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "251A Lương Định Của, Khu phè 3, Phường An Phú, Quận 2, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2620",
+    "id": "79487",
+    "name": "Bệnh viện Mắt kỹ thuật cao Phương Nam",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Số 360 Điện Biên Phủ, Phường 11, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2621",
+    "id": "79490",
+    "name": "Phòng khám đa khoa (thuộc Công ty TNHH Y tế Đại Phước)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "829, 829A Đường 3/2, Phường 7, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "2622",
+    "id": "79499",
+    "name": "Bệnh viện Phạm Ngọc Thạch",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "120 Hùng Vương, Phường 12, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "5117",
+    "id": "79514",
+    "name": "Phòng khám đa khoa (thuộc Cty TNHH Phòng khám ĐK khu CN Tân Tạo)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "4423 Nguyễn Cửu Phú, Khu phố 4, phường Tân Tạo A, quận Bình Tân, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "5921",
+    "id": "79505",
+    "name": "Bệnh viện Quốc tế City",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "số 3, đường 17A, Bình Trị Đông B, Bình Tân, TP.Hồ Chí Minh"
+  },
+  {
+    "stt": "5989",
+    "id": "79509",
+    "name": "Bệnh viện Việt Pháp (Bệnh viện FV)",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Số 06 Nguyễn Lương Bằng, phường Tân Phú, quận 7, TP Hồ Chí Minh"
+  },
+  {
+    "stt": "6115",
+    "id": "79491",
+    "name": "Trạm y tế Phường 8 - Quận Gò Vấp",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 8, quận Gò Vấp, TP.Hồ Chí Minh"
+  },
+  {
+    "stt": "6175",
+    "id": "79492",
+    "name": "Trung tâm Y tế huyện Cần Giờ - Cơ sở 2 (Phòng khám ĐK khu vực An Nghĩa)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "ấp An Nghĩa, xã An Thới Đông, huyện Cần Giờ, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "6176",
+    "id": "79493",
+    "name": "Phòng khám đa khoa thuộc Công ty TNHH phòng khám đa khoa Phước Linh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "210 Phạm Đăng Giảng, phường Bình Hưng Hoà, quận Bình Tân, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "6177",
+    "id": "79494",
+    "name": "Phòng khám đa khoa thuộc công ty cổ phần phòng khám đa khoa Thành An",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "1691 Tỉnh lộ 10, khu phố 5, phường Tân Tạo A, quận Bình Tân, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "6178",
+    "id": "79512",
+    "name": "Phòng khám đa khoa thuộc cty TNHH TM và DV PKĐK Nam Sài Gòn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "D6/8 quốc lộ 1A, ấp 4, xã Bình Chánh, huyện Bình Chánh, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "6264",
+    "id": "79183",
+    "name": "Trạm y tế Phường 07 - Quận Phú Nhuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 07, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "6308",
+    "id": "79532",
+    "name": "Bệnh viện Nhi Đồng Thành Phố",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "15 đường cao tốc TP Hồ Chí Minh - Trung lướng ấp 1 xã Tân Kiên - Huyện Bình Chánh - TP HCM"
+  },
+  {
+    "stt": "6318",
+    "id": "79324",
+    "name": "Trạm y tế phường Tân Hưng - Quận 7",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "6319",
+    "id": "79350",
+    "name": "Trạm y tế xã Tân Phú Trung - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Phú Trung, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "6348",
+    "id": "79568",
+    "name": "Phòng khám đa khoa (thuộc công ty TNHH PKĐK Nhơn Tâm)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "469 Nguyễn Văn Tạo - xã Long Thới - Huyện Nhà Bè - TP Hồ Chí Minh"
+  },
+  {
+    "stt": "6707",
+    "id": "79188",
+    "name": "Trạm y tế Phường 15 - Quận Phú Nhuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 15, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "8162",
+    "id": "79094",
+    "name": "Trạm y tế phường Trung Mỹ Tây - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "8306",
+    "id": "79262",
+    "name": "Trạm y tế Phường 16 - Quận 4",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 16, Quận 4, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "8307",
+    "id": "79341",
+    "name": "Trạm y tế xã Phước Thạnh - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phước Thạnh, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "8308",
+    "id": "79364",
+    "name": "Trạm y tế Thị trấn Tân Túc - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị trấn Tân Túc, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "8466",
+    "id": "79047",
+    "name": "Phòng khám đa khoa (Thuộc Công ty TNHH trang thiết bị y tế Kiều Tiên)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "323/3 Lê Quang Định, Phường 5, Q. Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "8561",
+    "id": "79516",
+    "name": "Bệnh viện đa khoa Tân Hưng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "871 Trần Xuân Soạn, Tân Hưng, Quận 7, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9082",
+    "id": "79078",
+    "name": "Trạm y tế phường Đa Kao - Quận 1",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Đa Kao, Quận 1, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "9110",
+    "id": "79137",
+    "name": "Trạm y tế Phường 26 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 26, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9111",
+    "id": "79138",
+    "name": "Trạm y tế Phường 12 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 12, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9112",
+    "id": "79140",
+    "name": "Trạm y tế Phường 05 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 05, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9113",
+    "id": "79144",
+    "name": "Trạm y tế Phường 14 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "32/21Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9114",
+    "id": "79146",
+    "name": "Trạm y tế Phường 02 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 02, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9115",
+    "id": "79147",
+    "name": "Trạm y tế Phường 01 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9116",
+    "id": "79151",
+    "name": "Trạm y tế Phường 22 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 22, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9121",
+    "id": "79157",
+    "name": "Trạm y tế Phường 13 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9124",
+    "id": "79162",
+    "name": "Trạm y tế Phường 05 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 05, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9125",
+    "id": "79164",
+    "name": "Trạm y tế Phường 06 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 06, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9126",
+    "id": "79165",
+    "name": "Trạm y tế Phường 08 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 08, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9128",
+    "id": "79167",
+    "name": "Trạm y tế Phường 14 - Quận Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 14, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9133",
+    "id": "79208",
+    "name": "Trạm y tế Phường 14 - Quận 3",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 14, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9134",
+    "id": "79213",
+    "name": "Trạm y tế Phường 09 - Quận 3",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 09, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9136",
+    "id": "79219",
+    "name": "Trạm y tế Phường 01 - Quận 3",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9137",
+    "id": "79235",
+    "name": "Trạm y tế Phường 15 - Quận 11",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 15, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9138",
+    "id": "79241",
+    "name": "Trạm y tế Phường 13 - Quận 11",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 13, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9140",
+    "id": "79248",
+    "name": "Trạm y tế Phường 01 - Quận 11",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9144",
+    "id": "79290",
+    "name": "Trạm y tế Phường 04 - Quận 6",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 04, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9145",
+    "id": "79294",
+    "name": "Trạm y tế Phường 10 - Quận 6",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 10, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9147",
+    "id": "79297",
+    "name": "Trạm y tế Phường 01 - Quận 8",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9149",
+    "id": "79321",
+    "name": "Trạm y tế phường Tân Thuận Đông - Quận 7",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9150",
+    "id": "79329",
+    "name": "Trạm y tế phường Tân Phong - Quận 7",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9151",
+    "id": "79330",
+    "name": "Trạm y tế phường Phú Mỹ - Quận 7",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Phú Mỹ, Quận 7, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "9234",
+    "id": "79026",
+    "name": "Bệnh viện Trưng Vương",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "266 Lý Thường Kiệt , Phường 14, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9287",
+    "id": "79404",
+    "name": "Trạm y tế cơ quan Công ty cổ phần May Việt Tiến",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "7 Lê Minh Xuân, Phường 7, Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9334",
+    "id": "79010",
+    "name": "Bệnh viện Quận 4",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "63, 65 Bến Vân Đồn, Phường 12, Quận 4, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9343",
+    "id": "79054",
+    "name": "Bệnh viện Quận Tân Phú",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "609, 611 Âu Cơ, P.Phú Trung, Quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9486",
+    "id": "79462",
+    "name": "Bệnh viện đa khoa Vạn Hạnh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "700 Sư Vạn Hạnh (nối dài), Phường 12, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9592",
+    "id": "79015",
+    "name": "Trung tâm y tế Quận 5",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "642A Nguyễn Trãi, Phường 11, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9593",
+    "id": "79489",
+    "name": "Bệnh viện đa khoa Tâm Trí Sài Gòn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "171/3/Trường Chinh, Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9639",
+    "id": "79408",
+    "name": "Bệnh viện Nhi Đồng II",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "14 Lý Tự Trọng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9742",
+    "id": "79326",
+    "name": "Trạm y tế phường Tân Quy - Quận 7",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Quy, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9750",
+    "id": "79058",
+    "name": "Bệnh viện đa khoa tư nhân Triều An",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "425 Kinh Dương Vương, Phường An Lạc, Q. Bình Tân, , Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9770",
+    "id": "79065",
+    "name": "Phòng khám đa khoa (thuộc CN 5 - CTy TNHH TTYK Phước An)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "42 Đường số 26 Phường 10 Quận 6 Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "9981",
+    "id": "79020",
+    "name": "Bệnh viện PHCN điều trị bệnh nghề nghiệp",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "125/61 Âu Dương Lân, Phường 2, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10060",
+    "id": "79473",
+    "name": "Phòng khám đa khoa Sài Gòn 2 - Trung tâm khám bệnh số 2",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Số 132, 134 Lý Thái Tổ, Phường 2, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10125",
+    "id": "79443",
+    "name": "Viện Tim Tp Hồ Chí Minh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "520 Nguyễn Chi Phương, Phường 12, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10152",
+    "id": "97092",
+    "name": "Viện Y học cổ truyền Quân đội CS2",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Phường 13, Quận 6, TP. Hồ Chí Minh"
+  },
+  {
+    "stt": "10219",
+    "id": "79038",
+    "name": "Bệnh viện huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "E9, 5 Nguyễn Hữu Trí, TT Tân Túc, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10238",
+    "id": "79419",
+    "name": "TTYT Tân Cảng/ Tổng Công ty Tân Cảng Sài Gòn/ Quân chủng hải quân",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "1295B Nguyễn Thị Định, Phường Cát Lái, Quận 2, Thành phố.Hồ Chí Minh"
+  },
+  {
+    "stt": "10240",
+    "id": "79028",
+    "name": "Bệnh viện Quận 11",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "72 Đường số 5, CX Bình Thới, Phường 8, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10417",
+    "id": "79289",
+    "name": "Trạm y tế Phường 01 - Quận 6",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận 6, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10444",
+    "id": "79357",
+    "name": "Trạm y tế xã Thới Tam Thôn - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thới Tam Thôn, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10459",
+    "id": "79439",
+    "name": "Bệnh viện Tim Tâm Đức",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "04 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10463",
+    "id": "79332",
+    "name": "Trạm y tế xã Phú Mỹ Hưng - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phú Mỹ Hưng, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10504",
+    "id": "79071",
+    "name": "Bệnh viện Hoàn Mỹ Sài Gòn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "60, 60A Phan Xích Long, Phường 1, Q.Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10540",
+    "id": "QP043",
+    "name": "Viện Y học cổ truyền Quân đội CS2",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Phường 13, Quận 6, TP. Hồ Chí Minh"
+  },
+  {
+    "stt": "10544",
+    "id": "79405",
+    "name": "Bệnh viện Nhi Đồng I",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "341 Sư Vạn Hạnh, Phường 10, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10603",
+    "id": "79356",
+    "name": "Trạm y tế xã Tân Thới Nhì - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Thới Nhì, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10638",
+    "id": "79091",
+    "name": "Trạm y tế phường Tân Chánh Hiệp - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10647",
+    "id": "79309",
+    "name": "Trạm y tế Phường 16 - Quận 8",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 16, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10688",
+    "id": "79343",
+    "name": "Trạm y tế xã Tân An Hội - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân An Hội, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10703",
+    "id": "79351",
+    "name": "Trạm y tế xã Tân Thông Hội - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Thông Hội, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10733",
+    "id": "79367",
+    "name": "Trạm y tế xã Vĩnh Lộc B - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10738",
+    "id": "79528",
+    "name": "Trung tâm Chỉnh hình và Phục hồi chức năng thành phố Hồ Chí Minh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Số 70 Bà Huyện Thanh Quan, phường 7, quận 3 Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10757",
+    "id": "79013",
+    "name": "Bệnh viện Nguyễn Tri Phương",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "468 Nguyễn Trãi, Phường 8, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10791",
+    "id": "79423",
+    "name": "Bệnh viện Ung Bướu",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "03 Nơ Trang Long, Phường 7, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10800",
+    "id": "79359",
+    "name": "Trạm y tế xã Tân Xuân - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Xuân, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10876",
+    "id": "79347",
+    "name": "Trạm y tế xã Hòa Phú - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hòa Phú, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "10888",
+    "id": "79400",
+    "name": "Bệnh viện Hùng Vương",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "128 Hồng Bàng, Phường 12, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "10950",
+    "id": "79421",
+    "name": "Bệnh viện Răng-Hàm-Mặt Trung ương TP.HCM",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "201A Nguyễn Chí Thanh, Phường 12, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11004",
+    "id": "79368",
+    "name": "Trạm y tế xã Bình Lợi - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bình Lợi, Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11011",
+    "id": "QP034",
+    "name": "Bệnh viện 7A",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "466 Nguyễn Trãi, Phường 8, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11012",
+    "id": "QP035",
+    "name": "Bệnh viện 175",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "786 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11013",
+    "id": "QP036",
+    "name": "Bệnh viện Quân Dân Miền Đông",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "50 Lê Văn Việt, Phường Hiệp Phú, Quận 9, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11015",
+    "id": "QP038",
+    "name": "TTYT Tân Cảng/ Tổng Công ty Tân Cảng Sài Gòn/ Quân chủng hải quân",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "1295B Nguyễn Thị Định, Phường Cát Lái, Quận 2, Thành phố.Hồ Chí Minh"
+  },
+  {
+    "stt": "11024",
+    "id": "79096",
+    "name": "Trạm y tế phường Tân Thới Nhất - Quận 12",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Thới Nhất, Quận 12, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "11030",
+    "id": "79070",
+    "name": "Phòng khám đa khoa (thuộc CTy TNHH MTV Phòng khám đa khoa An Phúc)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "502-504 Nguyễn Chí Thanh, Phường 7, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11036",
+    "id": "79436",
+    "name": "Bệnh viện đa khoa Mắt Sài Gòn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "473 Cách Mạng Tháng 8, Phường 13, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11082",
+    "id": "79024",
+    "name": "Bệnh viện Nhân Dân 115",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "527 Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11128",
+    "id": "79338",
+    "name": "Trạm y tế xã Phú Hòa Đông - huyện Củ Chi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phú Hòa Đông, Huyện Củ Chi, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "11154",
+    "id": "79984",
+    "name": "Phòng Khám đa khoa Tân Quy trực thuộc Bệnh viện huyện Củ Chi",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Tỉnh lộ 8, ấp 12, xã Tân Thạnh Đông, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11162",
+    "id": "79513",
+    "name": "Phòng khám đa khoa (Thuộc Công ty TNHH PKĐK Quốc tế Hàng Xanh)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "395-397 Điện Biên Phủ, phường 25, quận Bình Thạnh, thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11241",
+    "id": "79082",
+    "name": "Trạm y tế phường Phạm Ngũ Lão - Quận 1",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Phạm Ngò Lão, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11257",
+    "id": "79244",
+    "name": "Trạm y tế Phường 12 - Quận 11",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 12, Quận 11, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11259",
+    "id": "79352",
+    "name": "Trạm y tế Thị trấn Hóc Môn - huyện Hóc Môn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị trấn Hóc Môn, Huyện Hóc Môn, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "11536",
+    "id": "79371",
+    "name": "Trạm y tế xã Tân Kiên - huyện Bình Chánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Kiên, Huyện Bình Chánh, Thành phố. Hồ Chí Minh"
+  },
+  {
+    "stt": "11555",
+    "id": "79051",
+    "name": "Bệnh viện Quận 1 - Cơ sở 1",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "338 Hai Bà Trưng, P. Tân Định, Quận 1, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11569",
+    "id": "79431",
+    "name": "Bệnh viện đại học Y dược TP HCM",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "215 Hồng Bàng, Phường 11, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11577",
+    "id": "79508",
+    "name": "Phòng khám đa khoa thuộc công ty TNHH Tân Quy",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "28/7 ấp 1, Xã Tân Thạch Tây, huyện Củ Chi, TP Hồ Chí Minh"
+  },
+  {
+    "stt": "11600",
+    "id": "79225",
+    "name": "Trạm y tế Phường 10 - Quận 10",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 10, Quận 10, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11734",
+    "id": "79265",
+    "name": "Trạm y tế Phường 01 - Quận 4",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận 4, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11796",
+    "id": "79630",
+    "name": "Phòng khám Nội tổng hợp thuộc Trung tâm Y tế Quận 8",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "1724, Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11936",
+    "id": "79274",
+    "name": "Trạm y tế Phường 01 - Quận 5",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 01, Quận 5, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11983",
+    "id": "79623",
+    "name": "Bệnh viện Lê Văn Thịnh-Khoa Khám Bệnh 2",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "89 Thảo Điền, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "11985",
+    "id": "79648",
+    "name": "Phòng khám đa khoa quốc tế Timec (thuộc Công ty CP chăm sóc YT quốc tế Tecco)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Tầng 1 (khối đế), Block F-G Chung cư Tecco Town, 4449 Nguyễn Cửu Phú, Phường Tân Tạo A, Quận Bình Tân, TP. Hồ Chí Minh"
+  },
+  {
+    "stt": "12098",
+    "id": "79009",
+    "name": "Trung tâm Y tế Quận 3",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "114, 116 Trần Quốc Thảo, Phường 7, Quận 7, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "12155",
+    "id": "79181",
+    "name": "Trạm y tế Phường 05 - Quận Phú Nhuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 05, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "12570",
+    "id": "79062",
+    "name": "Phòng khám đa khoa (thuộc CTy TNHH Phòng khám đa khoa Vạn Phúc)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "1184 Lê Đức Thọ, Phường 13, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "12789",
+    "id": "79402",
+    "name": "Bệnh viện Mắt Tp Hồ Chí Minh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "280 Điện Biên Phủ, Phường 7, Quận 3, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "12909",
+    "id": "79141",
+    "name": "Trạm y tế Phường 07 - Quận Bình Thạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường 07, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "13117",
+    "id": "79709",
+    "name": "Phòng khám Đa khoa (Thuộc Chi nhánh Công ty Cổ phần Phòng Khám Đa Khoa Thành An)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "740-742-744-746 Hương Lộ 2, Khu phố 6, Phường Bình Trị Đông A, Quận Bình Tân, Thành phố Hồ Chí Minh"
+  },
+  {
+    "stt": "1",
+    "id": "01228",
+    "name": "Cơ sở 2 Bệnh viện Da Liễu Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Số 02 Nguyễn Viết Xuân, quận Hà Đông, Hà Nội"
+  },
+  {
+    "stt": "2",
+    "id": "01230",
+    "name": "Trạm y tế phường Phúc Diễn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Phúc Diễn, quận Bắc Từ Liêm, Hà Nội"
+  },
+  {
+    "stt": "3",
+    "id": "01231",
+    "name": "Trạm y tế phường Phương Canh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Phương Canh, quận Nam Từ Liêm, Hà Nội"
+  },
+  {
+    "stt": "4",
+    "id": "01232",
+    "name": "Trạm y tế phường Mỹ Đình 2",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phương Mỹ Đình, quận Nam Từ Liêm, Hà Nội"
+  },
+  {
+    "stt": "5",
+    "id": "01334",
+    "name": "Đại học Giao thông vận tải (YTCQ)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Láng Thượng, Đống Đa"
+  },
+  {
+    "stt": "6",
+    "id": "01361",
+    "name": "Phòng khám đa khoa182 Lương Thế Vinh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "182 Lương Thế Vinh, Thanh Xuân"
+  },
+  {
+    "stt": "7",
+    "id": "01365",
+    "name": "Đại học Công nghiệp Hà Nội (YTCQ)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Minh Khai - Từ Liêm"
+  },
+  {
+    "stt": "8",
+    "id": "01801",
+    "name": "Trung tâm y tế quận Ba Đình",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "50 Hàng Bún, Ba Đình"
+  },
+  {
+    "stt": "9",
+    "id": "01802",
+    "name": "Trung tâm y tế quận Hoàn Kiếm",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "26 Lương Ngọc Quyến, Hoàn Kiếm"
+  },
+  {
+    "stt": "10",
+    "id": "01803",
+    "name": "Trung tâm y tế quận Tây Hồ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "124 Hoàng Hoa Thám, Tây Hồ"
+  },
+  {
+    "stt": "11",
+    "id": "01807",
+    "name": "Trung tâm y tế quận Hai Bà Trưng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "103 Bà Triệu, Hai Bà Trưng"
+  },
+  {
+    "stt": "12",
+    "id": "01808",
+    "name": "Trung tâm y tế quận Hoàng Mai",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Lĩnh Nam, Hoàng Mai"
+  },
+  {
+    "stt": "13",
+    "id": "01809",
+    "name": "Trung tâm y tế quận Thanh Xuân",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Ngõ 282 Khương Đình, Thanh Xuân"
+  },
+  {
+    "stt": "14",
+    "id": "01811",
+    "name": "Trung tâm y tế huyện Đông Anh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Xã Liên Hà, Đông Anh"
+  },
+  {
+    "stt": "15",
+    "id": "01814",
+    "name": "Trung tâm y tế huyện Thanh Trì",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thanh Trì"
+  },
+  {
+    "stt": "16",
+    "id": "01816",
+    "name": "Bệnh viện đa khoa Hà Đông",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Bế Văn Đàn, Quang Trung, TP Hà Đông"
+  },
+  {
+    "stt": "17",
+    "id": "01817",
+    "name": "Bệnh viện đa khoa Vân Đình",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Thị Trấn Vân Đình, ứng Hoà"
+  },
+  {
+    "stt": "18",
+    "id": "01818",
+    "name": "Phòng khám A thuộc BVĐK Đống Đa",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Tầng 2 Khu Khám Bệnh BVĐK Đống Đa"
+  },
+  {
+    "stt": "19",
+    "id": "01819",
+    "name": "Bệnh viện Quân Y 105",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Phường Sơn Lộc, Thị Xã Sơn Tây"
+  },
+  {
+    "stt": "20",
+    "id": "01823",
+    "name": "Bệnh viện đa khoa huyện Chương Mỹ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "120 Hoà Sơn,thị Trấn Chúc Sơn"
+  },
+  {
+    "stt": "21",
+    "id": "01826",
+    "name": "Bệnh viện đa khoa huyện Phúc Thọ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thị Trấn Phúc Thọ, Phúc Thọ"
+  },
+  {
+    "stt": "22",
+    "id": "01827",
+    "name": "Bệnh viện đa khoa huyện Quốc Oai",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Thị Trấn Quốc Oai, Huỵện Quốc Oai"
+  },
+  {
+    "stt": "23",
+    "id": "01828",
+    "name": "Bệnh viện đa khoa huyện Thạch Thất",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Kim Quan, Thạch Thất"
+  },
+  {
+    "stt": "24",
+    "id": "01830",
+    "name": "Bệnh viện đa khoa huyện Thường Tín",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Thị Trấn Thường Tín"
+  },
+  {
+    "stt": "25",
+    "id": "01832",
+    "name": "Phòng khám đa khoa KV Trung tâm Hà Đông",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "57 Tô Hiệu, Hà Đông"
+  },
+  {
+    "stt": "26",
+    "id": "01833",
+    "name": "Trung tâm y tế huyện ứng Hoà",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thị Trấn Vân Đình, ứng Hoà"
+  },
+  {
+    "stt": "27",
+    "id": "01836",
+    "name": "Trung tâm y tế thị xã Sơn Tây",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "1 Lê Lợi, Sơn Tây"
+  },
+  {
+    "stt": "28",
+    "id": "01837",
+    "name": "Trung tâm y tế huyện Ba Vì",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thị Trấn Tây Đằng, Ba Vì"
+  },
+  {
+    "stt": "29",
+    "id": "01838",
+    "name": "Trung tâm y tế huyện Phúc Thọ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Phố Gạch, Phúc Thọ"
+  },
+  {
+    "stt": "30",
+    "id": "01840",
+    "name": "Trung tâm y tế huyện Hoài Đức",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Đức Giang, Hoài Đức"
+  },
+  {
+    "stt": "31",
+    "id": "01842",
+    "name": "Trung tâm y tế huyện Thạch Thất",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Bình Phú, Thạch Thất"
+  },
+  {
+    "stt": "32",
+    "id": "01843",
+    "name": "Trung tâm y tế huyện Chương Mỹ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "120 Hoà Sơn, Chúc Sơn"
+  },
+  {
+    "stt": "33",
+    "id": "01844",
+    "name": "Trung tâm y tế huyện Thanh Oai",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Tt Kim Bài, Thanh Oai, Hn"
+  },
+  {
+    "stt": "34",
+    "id": "01847",
+    "name": "Trung tâm y tế huyện Mỹ Đức",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thị Trấn Đại Nghĩa, huyện Mỹ Đức"
+  },
+  {
+    "stt": "35",
+    "id": "01848",
+    "name": "Phòng khám A thuộc BVĐK Đức Giang",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Khu Khám Bệnh BVĐK Đức Giang"
+  },
+  {
+    "stt": "36",
+    "id": "01849",
+    "name": "Phòng khám A thuộc Bệnh viện Thanh Nhàn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Khu Khám Bệnh Bv Thanh Nhàn"
+  },
+  {
+    "stt": "37",
+    "id": "01850",
+    "name": "Phòng khám A thuộc BVĐK Sơn Tây",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Tại BVĐK Sơn Tây"
+  },
+  {
+    "stt": "38",
+    "id": "01851",
+    "name": "Phòng khám A thuộc BVĐK Vân Đình",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Tại BVĐK Vân Đình"
+  },
+  {
+    "stt": "39",
+    "id": "01852",
+    "name": "Phòng khám A thuộc BVĐK Thanh Trì",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Khu Khám Bệnh, Bv Đk Thanh Trì"
+  },
+  {
+    "stt": "40",
+    "id": "01854",
+    "name": "Phòng khám A thuộc BVĐK Đông Anh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Khoa Hồi Sức Cấp Cứu, BVĐK Đông Anh"
+  },
+  {
+    "stt": "41",
+    "id": "01857",
+    "name": "Phòng khám A thuộc BVĐK huyện Mê Linh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Tại BVĐK Huyện Mê Linh"
+  },
+  {
+    "stt": "42",
+    "id": "01858",
+    "name": "Phòng khám A thuộc BVĐK huyện Ba Vì",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Huyện Ba Vì"
+  },
+  {
+    "stt": "43",
+    "id": "01861",
+    "name": "Phòng khám A thuộc BVĐK huyện Phú Xuyên",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Huyện Phú Xuyên"
+  },
+  {
+    "stt": "44",
+    "id": "01862",
+    "name": "Phòng khám A thuộc BVĐK huyện Đan Phượng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Huyện Đan Phượng"
+  },
+  {
+    "stt": "45",
+    "id": "01901",
+    "name": "Bệnh viện Hữu nghị Việt Đức",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng đặc biệt",
+    "address": "40 Tràng Thi, Hoàn Kiếm"
+  },
+  {
+    "stt": "46",
+    "id": "01903",
+    "name": "Bệnh viện Phổi Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "44 Thanh Nhàn, Hai Bà Trưng"
+  },
+  {
+    "stt": "47",
+    "id": "01904",
+    "name": "Bệnh viện Phụ sản Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Đường La Thành, Ba Đình"
+  },
+  {
+    "stt": "48",
+    "id": "01905",
+    "name": "Bệnh viện Phụ sản TW",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "43 Tràng Thi, Hoàn Kiếm"
+  },
+  {
+    "stt": "49",
+    "id": "01906",
+    "name": "Bệnh viện K",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "43 Quán Sứ, Hoàn Kiếm"
+  },
+  {
+    "stt": "50",
+    "id": "01907",
+    "name": "Bệnh viện Mắt trung ương",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "85 Bà Triệu, Hai Bà Trưng"
+  },
+  {
+    "stt": "51",
+    "id": "01908",
+    "name": "Bệnh viện Răng Hàm Mặt Trung ương Hà Nội",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "40b Tràng Thi, Hoàn Kiếm"
+  },
+  {
+    "stt": "52",
+    "id": "01911",
+    "name": "Bệnh viện Mắt Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "37 Hai Bà Trưng, Hoàn Kiếm"
+  },
+  {
+    "stt": "53",
+    "id": "01914",
+    "name": "Bệnh viện Nội tiết",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "Yên Lãng, Thái Thịnh, Đống Đa"
+  },
+  {
+    "stt": "54",
+    "id": "01919",
+    "name": "Bệnh viện Tim Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "92 Trần Hưng Đạo, Hoàn Kiếm"
+  },
+  {
+    "stt": "55",
+    "id": "01920",
+    "name": "Viện Huyết học và Truyền máu TW",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "Phố Phạm Văn Bạch, Phường Yên Hòa, quận Cầu Giấy, Hà Nội"
+  },
+  {
+    "stt": "56",
+    "id": "01923",
+    "name": "Bệnh viện Da liễu TW",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "15a Phương Mai, Đống Đa"
+  },
+  {
+    "stt": "57",
+    "id": "01925",
+    "name": "Bệnh viện Lão khoa TW",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "1a Phương Mai, Đống Đa"
+  },
+  {
+    "stt": "58",
+    "id": "01927",
+    "name": "Viện Y học phóng xạ và U bướu Quân đội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "1 Tổ 9, Định Công, Hoàng Mai"
+  },
+  {
+    "stt": "59",
+    "id": "01931",
+    "name": "Bệnh viện Tâm Thần Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Nguyễn Văn Linh, Sài Đồng, Long Biên"
+  },
+  {
+    "stt": "60",
+    "id": "01933",
+    "name": "Công ty TNHH Bệnh viện Hồng Ngọc (BV Hồng Ngọc)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "55 Yên Ninh, Ba Đình"
+  },
+  {
+    "stt": "61",
+    "id": "01935",
+    "name": "Bệnh viện YHCT Hà Đông",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "99 Nguyễn Viết Xuân, TP Hà Đông"
+  },
+  {
+    "stt": "62",
+    "id": "01938",
+    "name": "Bệnh viện Tâm thần Trung ương",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "Xã Hoà Bình, Thường Tín"
+  },
+  {
+    "stt": "63",
+    "id": "01A01",
+    "name": "Trạm y tế phường Phúc Xá (TTYT Ba Đình)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "86 Nghĩa Dũng, Phường Phúc Xá, Quận Ba Đình"
+  },
+  {
+    "stt": "64",
+    "id": "01916",
+    "name": "Bệnh viện Ung bướu Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "42a Thanh Nhàn, Hai Bà Trưng"
+  },
+  {
+    "stt": "65",
+    "id": "01A12",
+    "name": "Trạm y tế phường Thành Công (TTYT Ba Đình)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Gần Nhà B4 Thành Công, Quận Ba Đình"
+  },
+  {
+    "stt": "66",
+    "id": "01A13",
+    "name": "Trạm y tế phường Vĩnh Phúc (TTYT Ba Đình)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "K1 Khu 7,2ha Phường Vĩnh Phúc, Quận Ba Đình"
+  },
+  {
+    "stt": "67",
+    "id": "01B02",
+    "name": "Trạm y tế phường Nhật Tân, Tây Hồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Ngõ 479 Đường Âu Cơ, P Nhật Tân, Tây Hồ"
+  },
+  {
+    "stt": "68",
+    "id": "01B03",
+    "name": "Trạm y tế phường Tứ Liên, Tây Hồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "68 Âu Cơ, Phường Tứ Liên, Tây Hồ"
+  },
+  {
+    "stt": "69",
+    "id": "01B04",
+    "name": "Trạm y tế phường Quảng An, Tây Hồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "9 Ngõ 31 Xuân Diệu, P Quảng An, Tây Hồ"
+  },
+  {
+    "stt": "70",
+    "id": "01B05",
+    "name": "Trạm y tế phường Xuân La, Tây Hồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Tổ 23 Cụm 3 Đường Xuân La, Tây Hồ"
+  },
+  {
+    "stt": "71",
+    "id": "01B06",
+    "name": "Trạm y tế phường Yên Phụ, Tây Hồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "48 Yên Phụ, Phường Yên Phụ, Tây Hồ"
+  },
+  {
+    "stt": "72",
+    "id": "01B51",
+    "name": "Trạm y tế phường Thượng Thanh (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Thượng Thanh, Long Biên"
+  },
+  {
+    "stt": "73",
+    "id": "01B53",
+    "name": "Trạm y tế phường Giang Biên (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Giang Biên, Long Biên"
+  },
+  {
+    "stt": "74",
+    "id": "01B54",
+    "name": "Trạm y tế phường Đức Giang (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Đức Giang, Long Biên"
+  },
+  {
+    "stt": "75",
+    "id": "01B55",
+    "name": "Trạm y tế phường Việt Hưng (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Việt Hưng, Long Biên"
+  },
+  {
+    "stt": "76",
+    "id": "01B57",
+    "name": "Trạm y tế phường Ngọc Lâm (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Ngọc Lâm, Long Biên"
+  },
+  {
+    "stt": "77",
+    "id": "01B59",
+    "name": "Trạm y tế phường Bồ Đề (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Bồ Đề, Long Biên"
+  },
+  {
+    "stt": "78",
+    "id": "01B60",
+    "name": "Trạm y tế phường Sài Đồng (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Sài Đồng, Long Biên"
+  },
+  {
+    "stt": "79",
+    "id": "01B62",
+    "name": "Trạm y tế phường Thạch Bàn (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Thạch Bàn, Long Biên"
+  },
+  {
+    "stt": "80",
+    "id": "01B63",
+    "name": "Trạm y tế phường Phúc Đồng (TTYTq.LB)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Phúc Đồng, Long Biên"
+  },
+  {
+    "stt": "81",
+    "id": "01C03",
+    "name": "Trạm y tế phường Mai Dịch, Cầu Giấy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Mai Dịch, , Quận Cầu Giấy"
+  },
+  {
+    "stt": "82",
+    "id": "01C04",
+    "name": "Trạm y tế phường Dịch Vọng, Cầu Giấy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Dịch Vọng, Quận Cầu Giấy"
+  },
+  {
+    "stt": "83",
+    "id": "01C08",
+    "name": "Trạm y tế phường Dịch Vọng Hậu, Cầu Giấy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Dịch Vọng Hậu, Quận Cầu Giấy"
+  },
+  {
+    "stt": "84",
+    "id": "01C65",
+    "name": "Trạm y tế phường Phương Liên (TTYT Đống Đa)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "80 Kim Hoa, Phường Phương Liên"
+  },
+  {
+    "stt": "85",
+    "id": "01C67",
+    "name": "Trạm y tế phường Trung Tự (TTYT Đống Đa)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "2 Ngõ 4d Đặng Văn Ngữ, Ptrung Tự"
+  },
+  {
+    "stt": "86",
+    "id": "01C69",
+    "name": "Trạm y tế phường Phương Mai (TTYT Đống Đa)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "28c Lương Định Của, P Phương Mai"
+  },
+  {
+    "stt": "87",
+    "id": "01D51",
+    "name": "Trạm y tế phường Thanh Trì, Hoàng Mai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Thanh Trì, Quận Hoàng Mai"
+  },
+  {
+    "stt": "88",
+    "id": "01D53",
+    "name": "Trạm y tế phường Định Công, Hoàng Mai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Định Công, Quận Hoàng Mai"
+  },
+  {
+    "stt": "89",
+    "id": "01D57",
+    "name": "Trạm y tế phường Tân Mai, Hoàng Mai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Tân Mai, Quận Hoàng Mai"
+  },
+  {
+    "stt": "90",
+    "id": "01D62",
+    "name": "Trạm y tế phường Trần Phú, Hoàng Mai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Trần Phú, Quận Hoàng Mai"
+  },
+  {
+    "stt": "91",
+    "id": "01D63",
+    "name": "Trạm y tế phường Hoàng Liệt, Hoàng Mai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hoàng Liệt, Quận Hoàng Mai"
+  },
+  {
+    "stt": "92",
+    "id": "01E51",
+    "name": "Trạm y tế thị trấn Sóc Sơn (TTYT H.Sóc Sơn)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Sóc Sơn, Huyện Sóc Sơn"
+  },
+  {
+    "stt": "93",
+    "id": "01E52",
+    "name": "Trạm y tế xã Bắc Sơn (TTYT h. Sóc Sơn)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bắc Sơn, Sóc Sơn"
+  },
+  {
+    "stt": "94",
+    "id": "01E53",
+    "name": "Trạm y tế xã Minh Trí (TTYT h. Sóc Sơn)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Trí, Sóc Sơn"
+  },
+  {
+    "stt": "95",
+    "id": "01E54",
+    "name": "Trạm y tế xã Hồng Kỳ (TTYT h. Sóc Sơn)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hồng Kỳ, Sóc Sơn"
+  },
+  {
+    "stt": "96",
+    "id": "01E58",
+    "name": "Trạm y tế xã Minh Phú (TTYT h. Sóc Sơn)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Phú, Sóc Sơn"
+  },
+  {
+    "stt": "97",
+    "id": "01001",
+    "name": "Bệnh viện Hữu Nghị",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "1 Trần Khánh Dư, Hai Bà Trưng"
+  },
+  {
+    "stt": "98",
+    "id": "01002",
+    "name": "Phòng khám A thuộc BVĐK Xanh Pôn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "59b Trần Phú"
+  },
+  {
+    "stt": "99",
+    "id": "01006",
+    "name": "Bệnh viện Thanh Nhàn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "42 Thanh Nhàn, Hai Bà Trưng"
+  },
+  {
+    "stt": "100",
+    "id": "01009",
+    "name": "Bệnh viện Bưu điện (Bộ Bưu Chính v.thông)",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Ngõ 228 Lê Trọng Tấn, Hoàng Mai"
+  },
+  {
+    "stt": "101",
+    "id": "01012",
+    "name": "Phòng khám đa khoa khu vực Đông Mỹ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn 1b, Xã Đông Mỹ, Huyện Thanh Trì, Hn"
+  },
+  {
+    "stt": "102",
+    "id": "01015",
+    "name": "Bệnh viện 354/TCHC",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "120 Đốc Ngữ, Ba Đình"
+  },
+  {
+    "stt": "103",
+    "id": "01016",
+    "name": "Bệnh viện 103",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng 1",
+    "address": "Km2 Đường 70, Hà Đông"
+  },
+  {
+    "stt": "104",
+    "id": "01017",
+    "name": "Phòng khám đa khoa khu vực Tô Hiệu",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn An Duyên, Xã Tô Hiệu, Huyện Thường Tín, Hn"
+  },
+  {
+    "stt": "105",
+    "id": "01018",
+    "name": "Viện Y học Phòng không Không quân",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "225 Trường Chinh, Thanh Xuân"
+  },
+  {
+    "stt": "106",
+    "id": "01021",
+    "name": "Phòng khám đa khoa Kim Liên (Phòng khám 3-TTYT Đống Đa)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "B20a, Tập Thể Kim Liên, Đống Đa"
+  },
+  {
+    "stt": "107",
+    "id": "01022",
+    "name": "Phòng khám đa khoa 26 Lương Ngọc Quyến (TTYT Hoàn Kiếm)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "26 Lương Ngọc Quyến - Hoàn Kiếm"
+  },
+  {
+    "stt": "108",
+    "id": "01024",
+    "name": "Phòng khám đa khoa 103 Bà Triệu (TTYT Hai Bà Trưng)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "103 Bà Triệu, Hai Bà Trưng"
+  },
+  {
+    "stt": "109",
+    "id": "01027",
+    "name": "Phòng khám đa khoa Trâu Quỳ (TTYT Gia Lâm)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "1 Ngô Xuân Quảng - trâu Quỳ - Gia Lâm"
+  },
+  {
+    "stt": "110",
+    "id": "01028",
+    "name": "Bệnh viện đa khoa YHCT Hà Nội",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Đường Trần Bình, Mai Dịch, Cầu Giấy"
+  },
+  {
+    "stt": "111",
+    "id": "01030",
+    "name": "Phòng khám đa khoa Lĩnh Nam, Hoàng Mai",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Lĩnh Nam - Hoàng Mai"
+  },
+  {
+    "stt": "112",
+    "id": "01032",
+    "name": "Bệnh viện đa khoa Sóc Sơn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Miếu Thờ, Tiên Dược, Sóc Sơn"
+  },
+  {
+    "stt": "113",
+    "id": "01033",
+    "name": "Phòng khám đa khoa Trung tâm (TTYT Sóc Sơn)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "thôn Phù Mã, xã Phù Linh, huyện Sóc Sơn, Hà Nội"
+  },
+  {
+    "stt": "114",
+    "id": "01034",
+    "name": "Phòng khám đa khoa Kim Anh (TTYT Sóc Sơn)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Xuân - Sóc Sơn"
+  },
+  {
+    "stt": "115",
+    "id": "01035",
+    "name": "Công ty CPKD và ĐTrị YT Đức Kiên (BV ĐKTN Hồng Hà)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "16 Nguyễn Như Đổ, Văn Miếu, Đống Đa"
+  },
+  {
+    "stt": "116",
+    "id": "01044",
+    "name": "PKĐK-TTYT MT lao động công thương",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "99 Văn Cao, Quận Ba Đình"
+  },
+  {
+    "stt": "117",
+    "id": "01045",
+    "name": "Phòng khám đa khoa Linh Đàm, Hoàng Mai",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Linh Đàm, Hoàng Mai"
+  },
+  {
+    "stt": "118",
+    "id": "01274",
+    "name": "Bệnh viện dã chiến tại cơ sở 2 của Bệnh viện Bạch Mai",
+    "tuyetCMKT": "Tuyến trung ương",
+    "rank": "Hạng đặc biệt",
+    "address": "Phường Liêm Tuyền, thành phố Phủ Lý, Hà Nam"
+  },
+  {
+    "stt": "119",
+    "id": "82242",
+    "name": "Bệnh viện Đa khoa Tâm Minh Đức Tiền Giang",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "198A Nguyễn Thị Thập"
+  },
+  {
+    "stt": "120",
+    "id": "01049",
+    "name": "Phòng khám đa khoa cơ sở 2 BV Nam Thăng Long",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Xã Hải Bối, Huyện Đông Anh"
+  },
+  {
+    "stt": "121",
+    "id": "01053",
+    "name": "Bệnh viện tư nhân chuyên khoa Mắt HITEC",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "55 Phố Hàm Long, Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội"
+  },
+  {
+    "stt": "122",
+    "id": "01054",
+    "name": "Phòng khám đa khoa GTVT Gia Lâm",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "481 Ngọc Lâm, Long Biên"
+  },
+  {
+    "stt": "123",
+    "id": "01056",
+    "name": "Bệnh viện đa khoa Hoè Nhai",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "17 - 34 Hoè Nhai, Ba Đình"
+  },
+  {
+    "stt": "124",
+    "id": "01057",
+    "name": "Phòng khám đa khoa 21 Phan Chu Trinh (TTYT Hoàn Kiếm)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "21 Phan Chu Trinh, Hoàn Kiếm"
+  },
+  {
+    "stt": "125",
+    "id": "01059",
+    "name": "Phòng khám đa khoa 50 Hàng Bún (TTYT Ba Đình)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "50 Hàng Bún, Ba Đình"
+  },
+  {
+    "stt": "126",
+    "id": "01061",
+    "name": "Cơ sở 2 Bệnh viện Đa khoa Nông nghiệp",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "16 Ngõ 183 Đặng Tiến Đông, Đống Đa"
+  },
+  {
+    "stt": "127",
+    "id": "75418",
+    "name": "Phòng Khám Đa Khoa Quốc Tế Sỹ Mỹ - Taekwang 1",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "(Trong khuôn viên Công ty cổ phần Tae Kwang Vina Industrial), KCN Biên Hòa 2, phường An Bình, thành phố Biên Hòa, tỉnh Đồng Nai."
+  },
+  {
+    "stt": "128",
+    "id": "01062",
+    "name": "Bệnh viện YHCT Bộ Công an",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Lương Thế Vinh, Thanh Xuân"
+  },
+  {
+    "stt": "129",
+    "id": "01064",
+    "name": "Phòng khám đa khoa 2 (TTYTq. ĐĐ)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Ngõ 122 Đường Láng, Đống Đa"
+  },
+  {
+    "stt": "130",
+    "id": "01065",
+    "name": "Bệnh viện Dệt May",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "454 Minh Khai, Hai Bà Trưng"
+  },
+  {
+    "stt": "131",
+    "id": "01067",
+    "name": "Phòng khám đa khoa Sài Đồng (TTYT Long Biên)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Sài Đồng, Long Biên"
+  },
+  {
+    "stt": "132",
+    "id": "01070",
+    "name": "Phòng khám đa khoa Mai Hương",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "A1 Ngõ Mai Hương, Hai Bà Trưng"
+  },
+  {
+    "stt": "133",
+    "id": "01071",
+    "name": "Bệnh viện Nam Thăng Long",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Tân Xuân, Xuân Đỉnh, Từ Liêm"
+  },
+  {
+    "stt": "134",
+    "id": "01072",
+    "name": "Bệnh viên đa khoa Hoè Nhai (Cơ sở 2)",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "34/53 Tân ấp, Phúc Xá, Ba Đình"
+  },
+  {
+    "stt": "135",
+    "id": "01075",
+    "name": "Bệnh viện Tim Hà Nội (Cơ sở 2)",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "Ngõ 603 Lạc Long Quân, Tây Hồ"
+  },
+  {
+    "stt": "136",
+    "id": "01076",
+    "name": "Trung tâm Bác sĩ gia đình",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "50c Hàng Bài, Hoàn Kiếm"
+  },
+  {
+    "stt": "137",
+    "id": "01077",
+    "name": "Bệnh viện Bắc Thăng Long",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Thị Trấn Đông Anh, Huyện Đông Anh"
+  },
+  {
+    "stt": "138",
+    "id": "01078",
+    "name": "Phòng khám đa khoa khu vực Yên Hoà, Cầu Giấy",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Tổ 19, Phường Yên Hoà, Quận Cầu Giấy"
+  },
+  {
+    "stt": "139",
+    "id": "01079",
+    "name": "Phòng khám đa khoa khu vực Phú Lương, Hà Đông",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Phú Lương, Quận Hà Đông"
+  },
+  {
+    "stt": "140",
+    "id": "01081",
+    "name": "Trung tâm cấp cứu 115 Hà Nội (Phòng khám 11 Phan Chu Trinh)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "11 Phan Chu Trinh, Hoàn Kiếm"
+  },
+  {
+    "stt": "141",
+    "id": "01084",
+    "name": "Phòng khám đa khoa Miền Đông, Đông Anh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Liên Hà, Đông Anh"
+  },
+  {
+    "stt": "142",
+    "id": "01085",
+    "name": "Phòng khám bệnh đa khoa Khu vực 1, Đông Anh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Kim Chung, Đông Anh"
+  },
+  {
+    "stt": "143",
+    "id": "01087",
+    "name": "Bệnh viện Than - Khoáng sản",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "1 Phan Đình Giót,phương Liệt, T.xuân"
+  },
+  {
+    "stt": "144",
+    "id": "01091",
+    "name": "Phòng khám đa khoa Cầu Diễn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Cầu Diễn - Từ Liêm (7680924)"
+  },
+  {
+    "stt": "145",
+    "id": "01092",
+    "name": "Phòng khám đa khoa trung tâm (TTYT Long Biên)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "20 Quân Chính - P. Ngoc Lâm - Long Biên"
+  },
+  {
+    "stt": "146",
+    "id": "01093",
+    "name": "Phòng khám đa khoa Đa Tốn (TTYT Gia Lâm)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thuận Tốn - Đa Tốn - Gia Lâm"
+  },
+  {
+    "stt": "147",
+    "id": "01096",
+    "name": "Công ty CP Công nghệ y học Hồng Đức (Phòng khám đa khoa Việt Hàn)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "9 Ngô Thì Nhậm, Hai Bà Trưng"
+  },
+  {
+    "stt": "148",
+    "id": "01097",
+    "name": "Bệnh viện Thể Thao Việt Nam",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Tân Mỹ, Mỹ Đình, Từ Liêm"
+  },
+  {
+    "stt": "149",
+    "id": "01098",
+    "name": "Trung tâm y tế huyện Mê Linh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Xã Đại Thịnh, Huyện Mê Linh"
+  },
+  {
+    "stt": "150",
+    "id": "01099",
+    "name": "Bệnh viện đa khoa huyện Mê Linh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Xã Đại Thịnh, Huyện Mê Linh"
+  },
+  {
+    "stt": "151",
+    "id": "01106",
+    "name": "TYT trực thuộc Công ty TNHH 1TV Thoát nước Hà Nội",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "65 Vân Hồ 3, Lê Đại Hành, Hai Bà Trưng"
+  },
+  {
+    "stt": "152",
+    "id": "01107",
+    "name": "Phòng khám đa khoa Minh Phú",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Phú, Sóc Sơn, Hà Nội"
+  },
+  {
+    "stt": "153",
+    "id": "01110",
+    "name": "TYT Trường Đại học Y Hà Nội",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "1 Tôn Thất Tùng, Đống Đa"
+  },
+  {
+    "stt": "154",
+    "id": "01116",
+    "name": "Trung tâm y tế Đại học Bách Khoa Hà Nội",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "1 Đại Cồ Việt, Hai Bà Trưng"
+  },
+  {
+    "stt": "155",
+    "id": "01121",
+    "name": "TYT Viễn thông Hà Nội",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "75 Đinh Tiên Hoàng, Hoàn Kiếm"
+  },
+  {
+    "stt": "156",
+    "id": "01126",
+    "name": "Bệnh viện đa khoa tư nhân Hà Nội",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "29 Hàn Thuyên - P. Phạm Đình Hổ - Q. Hai Bà Trưng - Hà Nội"
+  },
+  {
+    "stt": "157",
+    "id": "01127",
+    "name": "TYT trực thuộc Công ty TNHH 1TV Môi trường đô thị Hà Nội",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Số 179 La Thành, Đống Đa, Hà Nội"
+  },
+  {
+    "stt": "158",
+    "id": "01131",
+    "name": "Phòng Y tế- Văn phòng Đài truyền hình Việt Nam",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "43 Nguyễn Chí Thanh, Đống Đa"
+  },
+  {
+    "stt": "159",
+    "id": "01135",
+    "name": "Phòng khám đa khoa khu vực Lương Mỹ (TTYT Chương Mỹ)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Hoàng Văn Thụ, Huyện Chương Mỹ"
+  },
+  {
+    "stt": "160",
+    "id": "01137",
+    "name": "PKĐK các cơ quan Đảng ở TW- Văn phòng TW Đảng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "74 Phan Đình Phùng, Ba Đình"
+  },
+  {
+    "stt": "161",
+    "id": "01139",
+    "name": "Bệnh viện đa khoa Quốc tế Thu Cúc",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "286 Phố Thụy Khuê, Phường Bưởi, Q. Tây Hồ, TP Hà Nội"
+  },
+  {
+    "stt": "162",
+    "id": "01151",
+    "name": "Trạm y tế trực thuộc Công ty TNHH May Đức Giang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Hạng 4",
+    "address": "59 Đức Giang - Long Biên"
+  },
+  {
+    "stt": "163",
+    "id": "01154",
+    "name": "Trung tâm y tế Hà Đông",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "57 Tụ Hiệu - Hà Đông"
+  },
+  {
+    "stt": "164",
+    "id": "01155",
+    "name": "Phòng khám đa khoa khu vực Đồng Tân, huyện ứng Hòa",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đồng Tân, Huyện ứng Hoà"
+  },
+  {
+    "stt": "165",
+    "id": "01156",
+    "name": "Phòng khám đa khoa khu vực Lưu Hoàng (TTYT ứng Hoà)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lưu Hoàng, Huyện ứng Hoà"
+  },
+  {
+    "stt": "166",
+    "id": "01157",
+    "name": "Trạm y tế Học viện Nông nghiệp Việt Nam",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Trâu Quỳ, Gia Lâm"
+  },
+  {
+    "stt": "167",
+    "id": "01158",
+    "name": "Trung tâm y tế huyện Đan Phượng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Đan Phượng - Hn"
+  },
+  {
+    "stt": "168",
+    "id": "01160",
+    "name": "Bệnh viện đa khoa huyện Gia Lâm",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Khu Đô Thị Mới - t.trấn Trâu Quỳ - h.gia Lâm - t.p Hà Nội"
+  },
+  {
+    "stt": "169",
+    "id": "01161",
+    "name": "Bệnh viện đa khoa quốc tế Vinmec",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "448 Minh Khai, P.vĩnh Tuy - q.hai Bà Trưng - t.p Hà Nội"
+  },
+  {
+    "stt": "170",
+    "id": "01164",
+    "name": "Công ty TNHHNN1TV xây lắp điện 4 (YTCQ)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Đông Anh, Huyện Đông Anh"
+  },
+  {
+    "stt": "171",
+    "id": "01169",
+    "name": "Phòng khám đa khoa khu vực An Mỹ (TTYT Mỹ Đức)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã An Mỹ, Huyện Mỹ Đức"
+  },
+  {
+    "stt": "172",
+    "id": "01172",
+    "name": "Phòng khám đa khoa khu vực Hương Sơn (TTYT Mỹ Đức)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hương Sơn, Huyện Mỹ Đức"
+  },
+  {
+    "stt": "173",
+    "id": "01188",
+    "name": "Bệnh viện tâm thần Mỹ Đức",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 3",
+    "address": "Xã Phúc Lâm, Huyện Mỹ Đức, TP Hà Nội"
+  },
+  {
+    "stt": "174",
+    "id": "01191",
+    "name": "Bệnh viện đa khoa MEDLATEC",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "42 - 44 Phố Nghĩa Dũng, Phường Phúc Xá, Quận Ba Đình, TP Hà Nội"
+  },
+  {
+    "stt": "175",
+    "id": "01195",
+    "name": "Phòng khám đa khoa Đại Thịnh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Đại Thịnh, Mê Linh, Hà Nội"
+  },
+  {
+    "stt": "176",
+    "id": "01199",
+    "name": "Phòng khám đa khoa Ngãi Cầu",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã An Khánh, Huyện Hoài Đức"
+  },
+  {
+    "stt": "177",
+    "id": "01206",
+    "name": "Bệnh viện đa khoa Hồng Phát",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "217 -219 Lê Duẩn"
+  },
+  {
+    "stt": "178",
+    "id": "01209",
+    "name": "Phòng khám đa khoa khu vực Minh Quang (TTYTBa Vì)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Quang, Huyện Ba Vì"
+  },
+  {
+    "stt": "179",
+    "id": "01212",
+    "name": "Phòng khám đa khoa khu vực Hòa Thạch",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hoà Thạch, Huyện Quốc Oai"
+  },
+  {
+    "stt": "180",
+    "id": "01213",
+    "name": "Phòng khám đa khoa khu vực Yên Bình (TTYTThạch Thất)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Bình, Huyện Thạch Thất"
+  },
+  {
+    "stt": "181",
+    "id": "01216",
+    "name": "Bệnh viện CK Mắt Ánh Sáng (C.ty TNHH đầu tư và TM QT Kim Thanh)",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "1 Khu C Dự án Nhà Cổ Nhuế, Từ Liêm"
+  },
+  {
+    "stt": "182",
+    "id": "01217",
+    "name": "Trung tâm y tế quận Bắc Từ Liêm",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "quận Bắc Từ Liêm, Hà Nội"
+  },
+  {
+    "stt": "183",
+    "id": "01218",
+    "name": "Phòng khám đa khoa Bồ Đề",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Số 99 phố Bồ Đề, Long Biên, Hà Nội"
+  },
+  {
+    "stt": "184",
+    "id": "01225",
+    "name": "Phòng khám đa khoa Quảng Tây",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Khu Trần Hưng Đạo, Tây Đằng, Ba Vì, Hà Nội"
+  },
+  {
+    "stt": "185",
+    "id": "02227",
+    "name": "Bệnh viện Phổi Hà Giang",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "Phường Minh Khai - TP Hà Giang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "186",
+    "id": "02228",
+    "name": "Phòng khám đa khoa KV Lũng Hồ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lũng Hồ - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "187",
+    "id": "02232",
+    "name": "Phòng khám đa khoa KV Bạch Ngọc",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bạch Ngọc - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "188",
+    "id": "02235",
+    "name": "Ban Bảo vệ CSSK cán bộ tỉnh",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Minh Khai - TP Hà Giang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "189",
+    "id": "04004",
+    "name": "Bệnh viện Đa khoa huyện Hà Quảng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Tổ Xuân Lộc, TT Xuân Hòa, H. Hà Quảng - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "190",
+    "id": "04006",
+    "name": "Bệnh viện Đa khoa huyện Trùng Khánh",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Tổ 6, thị trấn Trùng Khánh, huyện Trùng Khánh, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "191",
+    "id": "04008",
+    "name": "Trung tâm y tế huyện Hòa An",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "H. Hoà An - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "192",
+    "id": "93108",
+    "name": "Trung tâm Y tế thành phố Ngã Bảy",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Số 228, đường 30/4, khu vực 5"
+  },
+  {
+    "stt": "193",
+    "id": "04009",
+    "name": "Bệnh viện Đa khoa huyện Quảng Hòa",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Phố Hòa Nam, TT Quảng Uyên, H. Quảng Hòa - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "194",
+    "id": "04011",
+    "name": "Trung tâm y tế huyện Hạ Lang",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "H. Hạ Lang - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "195",
+    "id": "04013",
+    "name": "Trung tâm y tế huyện Quảng Hòa",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Tổ 6, TT Hòa Thuận, H.Quảng Hoà, Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "196",
+    "id": "04014",
+    "name": "Bệnh viện Đa khoa tỉnh Cao Bằng",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "P.Tân Giang - TP Cao Bằng"
+  },
+  {
+    "stt": "197",
+    "id": "04015",
+    "name": "Bệnh viện y học cổ truyền",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 2",
+    "address": "P.Tân Giang - TP Cao Bằng"
+  },
+  {
+    "stt": "198",
+    "id": "04019",
+    "name": "Phòng khám đa khoa thuộc Trung tâm Kiểm soát bệnh tật tỉnh Cao Bằng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Tổ 23 - P.Sông Bằng - TP Cao Bằng"
+  },
+  {
+    "stt": "199",
+    "id": "04025",
+    "name": "Trạm y tế phường Sông Bằng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "P.Sông Bằng - TP Cao Bằng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "200",
+    "id": "04027",
+    "name": "Trạm y tế phường Tân Giang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "P.Tân Giang - TP Cao Bằng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "201",
+    "id": "04031",
+    "name": "Trạm y tế phường Duyệt Trung",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "P.Duyệt Trung - TP Cao Bằng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "202",
+    "id": "04032",
+    "name": "Trạm y tế xã Đức Hạnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đức Hạnh - H. Bảo Lâm - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "203",
+    "id": "04033",
+    "name": "Trạm y tế xã Lý Bôn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lý Bôn - H. Bảo Lâm - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "204",
+    "id": "04034",
+    "name": "Trạm y tế xã Nam Quang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Tổng Phườn, xã Nam Quang, huyện Bảo Lâm, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "205",
+    "id": "04035",
+    "name": "Trạm y tế xã Vĩnh Quang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vĩnh Quang - H. Bảo Lâm - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "206",
+    "id": "04040",
+    "name": "Trạm y tế xã Thái Học",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thái Học - H. Bảo Lâm - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "207",
+    "id": "04041",
+    "name": "Trạm y tế xã Yên Thổ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Thổ - H. Bảo Lâm - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "208",
+    "id": "04042",
+    "name": "Trạm y tế thị trấn Bảo Lạc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Bảo Lạc - H. Bảo Lạc - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "209",
+    "id": "04043",
+    "name": "Trạm y tế xã Cốc Pàng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cốc Pàng - H. Bảo Lạc - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "210",
+    "id": "04044",
+    "name": "Trạm y tế xã Thượng Hà",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thượng Hà - H. Bảo Lạc - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "211",
+    "id": "04048",
+    "name": "Trạm y tế xã Xuân Trường",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Trường - H. Bảo Lạc - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "212",
+    "id": "04050",
+    "name": "Trạm y tế xã Phan Thanh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phan Thanh - H. Bảo Lạc - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "213",
+    "id": "04052",
+    "name": "Trạm y tế xã Hưng Đạo",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hưng Đạo - H. Bảo Lạc - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "214",
+    "id": "04053",
+    "name": "Trạm y tế xã Huy Giáp",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Huy Giáp - H. Bảo Lạc - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "215",
+    "id": "04055",
+    "name": "Trạm y tế xã Sơn Lộ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Sơn Lộ - H. Bảo Lạc - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "216",
+    "id": "04090",
+    "name": "Trạm y tế xã Quang Trung",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quang Trung - Huyện Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "217",
+    "id": "04094",
+    "name": "Trạm y tế thị trấn Trùng Khánh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Bản Đà - Thị Trấn Trùng Khánh - H. Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "218",
+    "id": "04095",
+    "name": "Trạm y tế xã Ngọc Khê",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngọc Khê - H. Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "219",
+    "id": "04096",
+    "name": "Trạm y tế xã Phong Nậm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phong Nậm - H. Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "220",
+    "id": "79655",
+    "name": "Trung tâm y tế quận Bình Thạnh - Cơ sở 2",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "8/104 Đinh Bộ Lĩnh"
+  },
+  {
+    "stt": "221",
+    "id": "79658",
+    "name": "TRUNG TÂM Y TẾ QUẬN 3 – CƠ SỞ 3",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "80/5 Bà Huyện Thanh Quan"
+  },
+  {
+    "stt": "222",
+    "id": "04101",
+    "name": "Trạm y tế xã Khâm Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Đồng Tâm - Xã Khâm Thành - H. Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "223",
+    "id": "04103",
+    "name": "Trạm y tế xã Lăng Hiếu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Đông Nà, xã Lăng Hiếu, huyện Trùng Khánh, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "224",
+    "id": "04107",
+    "name": "Trạm y tế xã Trung Phúc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Phúc - H. Trùng Khánh - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "225",
+    "id": "04108",
+    "name": "Trạm y tế xã Cao Thăng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cao Thăng - H. Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "226",
+    "id": "04109",
+    "name": "Trạm y tế xã Đức Hồng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Đầu Cầu, xã Đức Hồng, huyện Trùng Khánh, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "227",
+    "id": "04113",
+    "name": "Trạm y tế xã Minh Long",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Long - H. Hạ Lang - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "228",
+    "id": "04114",
+    "name": "Trạm y tế xã Lý Quốc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lý Quốc - H. Hạ Lang - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "229",
+    "id": "04116",
+    "name": "Trạm y tế xã Đồng Loan",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đồng Loan - H. Hạ Lang - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "230",
+    "id": "04118",
+    "name": "Trạm y tế xã Kim Loan",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Kim Loan - H. Hạ Lang - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "231",
+    "id": "04121",
+    "name": "Trạm y tế thị trấn Thanh Nhật",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Thanh Nhật - H. Hạ Lang - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "232",
+    "id": "04122",
+    "name": "Trạm y tế xã Vinh Quý",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vinh Quý - H. Hạ Lang - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "233",
+    "id": "04126",
+    "name": "Trạm y tế xã Thị Hoa",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thị Hoa - H. Hạ Lang - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "234",
+    "id": "04127",
+    "name": "Trạm Y tế thị trấn Quảng Uyên",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phố Hòa Trung, thị trấn Quảng Uyên, huyện Quảng Hòa, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "235",
+    "id": "04129",
+    "name": "Trạm y tế xã Quảng Hưng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quảng Hưng - H. Quảng Hòa - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "236",
+    "id": "04136",
+    "name": "Trạm y tế xã Phúc Sen",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Minh Tiến, xã Phúc Sen, huyện Quảng Hòa, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "237",
+    "id": "04137",
+    "name": "Trạm y tế xã Chí Thảo",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Chí Thảo - Huyện Quảng Hòa - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "238",
+    "id": "04138",
+    "name": "Trạm y tế xã Tự Do",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Gia Tự, xã Tự Do, huyện Quảng Hòa, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "239",
+    "id": "04143",
+    "name": "Trạm y tế xã Hạnh Phúc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Bản Tin, xã Hạnh Phúc, huyện Quảng Hòa, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "240",
+    "id": "04144",
+    "name": "Trạm y tế thị trấn Tà Lùng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị trấn Tà Lùng - H. Quảng Hoà - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "241",
+    "id": "04148",
+    "name": "Trạm y tế xã Đại Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đại Sơn - H. Quảng Hoà - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "242",
+    "id": "04150",
+    "name": "Trạm y tế xã Tiên Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tiên Thành - H. Quảng Hoà - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "243",
+    "id": "04152",
+    "name": "Trạm y tế xã Mỹ Hưng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Mỹ Hưng - H. Quảng Hoà - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "244",
+    "id": "04155",
+    "name": "Trạm y tế xã Nam Tuấn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nam Tuấn - H. Hoà An - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "245",
+    "id": "04157",
+    "name": "Trạm y tế xã Đại Tiến",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Nà Khan, xã Đại Tiến, huyện Hòa An, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "246",
+    "id": "04159",
+    "name": "Trạm y tế xã Ngũ lão",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngũ Lão - H. Hoà An - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "247",
+    "id": "04160",
+    "name": "Trạm y tế xã Trương Lương",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Nà Mừa, xã Trương Lương, huyện Hòa An, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "248",
+    "id": "04164",
+    "name": "Trạm y tế xã Hồng Việt",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Lam Sơn hạ, xã Hồng Việt, huyện Hòa An, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "249",
+    "id": "04166",
+    "name": "Trạm y tế xã Vĩnh Quang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vĩnh Quang - TP Cao Bằng - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "250",
+    "id": "04167",
+    "name": "Trạm y tế xã Hoàng Tung",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hoàng Tung - H. Hoà An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "251",
+    "id": "04170",
+    "name": "Trạm y tế xã Hưng Đạo",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hưng Đạo - TP Cao bằng - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "252",
+    "id": "04172",
+    "name": "Trạm y tế xã Bình Dương",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bình Dương - H. Hoà An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "253",
+    "id": "04173",
+    "name": "Trạm y tế xã Lê Chung",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lê Chung - H. Hoà An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "254",
+    "id": "04176",
+    "name": "Trạm y tế xã Hồng Nam",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hồng Nam - H. Hoà An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "255",
+    "id": "04178",
+    "name": "Trạm y tế thị trấn Tĩnh Túc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị trấn Tĩnh Túc - H. Nguyên Bình - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "256",
+    "id": "04179",
+    "name": "Trạm y tế xã Yên Lạc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Lạc - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "257",
+    "id": "04184",
+    "name": "Trạm y tế xã Minh Tâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Đông Sơn, xã Minh Tâm, huyện Nguyên Bình, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "258",
+    "id": "04185",
+    "name": "Trạm y tế xã Thể Dục",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thể Dục - H. Nguyên Bình - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "259",
+    "id": "04187",
+    "name": "Trạm y tế xã Mai Long",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Mai Long - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "260",
+    "id": "04190",
+    "name": "Trạm y tế xã Hoa Thám",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hoa Thám - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "261",
+    "id": "04192",
+    "name": "Trạm y tế xã Quang Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quang Thành - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "262",
+    "id": "04193",
+    "name": "Trạm y tế xã Tam Kim",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tam Kim - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "263",
+    "id": "04194",
+    "name": "Trạm y tế xã Thành Công",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thành Công - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "264",
+    "id": "04195",
+    "name": "Trạm y tế xã Thịnh Vượng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thịnh Vượng - H. Nguyên Bình - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "265",
+    "id": "04199",
+    "name": "Trạm y tế xã Kim Đồng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Kim Đồng - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "266",
+    "id": "04200",
+    "name": "Trạm y tế xã Minh Khai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Khai - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "267",
+    "id": "04202",
+    "name": "Trạm y tế xã Đức Thông",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đức Thông - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "268",
+    "id": "04203",
+    "name": "Trạm y tế xã Thái Cường",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thái Cường - H. Thạch An - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "269",
+    "id": "04204",
+    "name": "Trạm y tế xã Vân Trình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Nà Ảng - Xã Vân Trình - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "270",
+    "id": "04205",
+    "name": "Trạm y tế xã Thụy Hùng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thuỵ Hùng - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "271",
+    "id": "04209",
+    "name": "Trạm y tế xã Đức Long",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đức Long - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "272",
+    "id": "04212",
+    "name": "Trạm y tế xã Đức Xuân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đức Xuân - H. Thạch An - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "273",
+    "id": "04269",
+    "name": "Trạm y tế xã Sơn Lập",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "H. Bảo Lạc - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "274",
+    "id": "04270",
+    "name": "Trạm y tế xã Kim Cúc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "H. Bảo Lạc - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "275",
+    "id": "04271",
+    "name": "Trạm y tế xã Cần Nông",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cần Nông - Huyện Hà Quảng - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "276",
+    "id": "04272",
+    "name": "Trạm y tế xã Ngọc Côn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "H. Trùng Khánh - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "277",
+    "id": "06003",
+    "name": "Trung tâm y tế huyện Bạch Thông",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Bạch Thông - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "278",
+    "id": "06004",
+    "name": "Trung tâm y tế huyện Chợ Đồn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Chợ Đồn - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "279",
+    "id": "06005",
+    "name": "Trung tâm y tế huyện Ba Bể",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Ba Bể - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "280",
+    "id": "06006",
+    "name": "Trung tâm y tế huyện Na Rì",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Na Rì - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "281",
+    "id": "06007",
+    "name": "Trung tâm y tế huyện Chợ Mới",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Chợ Mới - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "282",
+    "id": "06008",
+    "name": "Trạm y tế xã Tân Tú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Tiến - Huyện Bạch Thông - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "283",
+    "id": "06010",
+    "name": "Trạm y tế xã Nông Hạ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nông Hạ - Huyện Chợ Mới - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "284",
+    "id": "06012",
+    "name": "Trạm y tế xã Thanh Mai",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Mai - Huyện Chợ Mới - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "285",
+    "id": "06016",
+    "name": "Trạm y tế xã Quang Thuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quang Thuận - huyện Bạch Thông - tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "286",
+    "id": "06019",
+    "name": "Trạm y tế xã Sĩ Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Sĩ Bình - huyện Bạch Thông - tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "287",
+    "id": "06022",
+    "name": "Trạm y tế xã Bằng Vân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bằng Vân - huyện Ngân Sơn - tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "288",
+    "id": "06023",
+    "name": "Trạm y tế xã Hiệp Lực",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lãng Ngâm - huyện Ngân Sơn - tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "289",
+    "id": "06027",
+    "name": "Trạm y tế xã Khang Ninh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Khang Ninh - Huyện Ba Bể - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "290",
+    "id": "06029",
+    "name": "Trạm y tế xã Cao Thượng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cao Thượng - Huyện Ba Bể - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "291",
+    "id": "06030",
+    "name": "Trạm y tế xã Hà Hiệu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hà Hiệu - Huyện Ba Bể - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "292",
+    "id": "06034",
+    "name": "Trạm y tế xã Yên Cư",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Cư - Huyện Chợ Mới - Tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "293",
+    "id": "06036",
+    "name": "Trạm y tế xã Văn Lang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Văn Lang - Na Rì - Bắc Kạn"
+  },
+  {
+    "stt": "294",
+    "id": "06037",
+    "name": "Trạm y tế xã Lục Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lục Bình - huyện Bạch Thông - tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "295",
+    "id": "06040",
+    "name": "Ban Bảo vệ CSSK cán bộ tỉnh Bắc Kạn",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Chưa xếp hạng",
+    "address": "Tổ 10 - p.Minh Khai - t.xã Bắc Kan - t.bắc Kan"
+  },
+  {
+    "stt": "296",
+    "id": "06052",
+    "name": "Trạm y tế phường Sông Cầu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Sông Cầu - thị Xã Bắc Kạn - tỉnh Bắc Kạn"
+  },
+  {
+    "stt": "297",
+    "id": "04061",
+    "name": "Trạm y tế xã Ngọc Động",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngọc Động - H. Hà Quảng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "298",
+    "id": "04062",
+    "name": "Trạm y tế xã Yên Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Sơn - Huyện Hà Quảng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "299",
+    "id": "04063",
+    "name": "Trạm y tế xã Lương Can",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lương Can - Huyện Hà Quảng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "300",
+    "id": "04068",
+    "name": "Trạm y tế xã Trường Hà",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Bản Hoong, xã Trường Hà, huyện Hà Quảng, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "301",
+    "id": "04072",
+    "name": "Trạm y tế xã Nội Thôn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nội Thôn - H. Hà Quảng - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "302",
+    "id": "04076",
+    "name": "Trạm y tế thị trấn Xuân Hòa",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Xuân Hoà - H. Hà Quảng - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "303",
+    "id": "04084",
+    "name": "Trạm y tế thị trấn Trà Lĩnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Tổ dân phố 1, thị trấn Trà Lĩnh, huyện Trùng Khánh, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "304",
+    "id": "04086",
+    "name": "Trạm y tế xã Tri Phương",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tri Phương - huyện Trùng Khánh - tỉnh Cao Bằng"
+  },
+  {
+    "stt": "305",
+    "id": "04088",
+    "name": "Trạm y tế xã Quang Vinh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xóm Lũng Nặm, xã Quang Vinh, huyện Trùng Khánh, tỉnh Cao Bằng"
+  },
+  {
+    "stt": "306",
+    "id": "04089",
+    "name": "Trạm y tế xã Xuân Nội",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Nội - huyện Trùng Khánh - Tỉnh Cao Bằng"
+  },
+  {
+    "stt": "307",
+    "id": "01E59",
+    "name": "Trạm y tế xã Phù Linh (TTYT h. Sóc Sơn)",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phù Linh, Sóc Sơn"
+  },
+  {
+    "stt": "308",
+    "id": "02026",
+    "name": "Trạm y tế xã Má Lé",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Má Lé - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "309",
+    "id": "02027",
+    "name": "Trạm y tế thị trấn Đồng Văn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đồng Văn - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "310",
+    "id": "02028",
+    "name": "Trạm y tế xã Lũng Táo",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lũng Táo - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "311",
+    "id": "02032",
+    "name": "Trạm y tế xã Sà Phìn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xà Phìn - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "312",
+    "id": "02033",
+    "name": "Trạm y tế xã Tả Phìn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tả Phìn - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "313",
+    "id": "02035",
+    "name": "Trạm y tế xã Phố Cáo",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phố Cáo - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "314",
+    "id": "02036",
+    "name": "Trạm y tế xã Sính Lủng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Sính Lủng - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "315",
+    "id": "02037",
+    "name": "Trạm y tế xã Sảng Tủng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Sảng Tủng - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "316",
+    "id": "02040",
+    "name": "Trạm y tế xã Vần Chải",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vần Chải - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "317",
+    "id": "02043",
+    "name": "Trạm y tế Thị trấn Mèo Vạc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Mèo Vạc - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "318",
+    "id": "02044",
+    "name": "Trạm y tế xã Thượng Phùng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thượng Phùng - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "319",
+    "id": "02047",
+    "name": "Trạm y tế xã Pả Vi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Pả Vi - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "320",
+    "id": "02050",
+    "name": "Trạm y tế xã Sủng Máng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Sủng Máng - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "321",
+    "id": "02052",
+    "name": "Trạm y tế xã Tả Lủng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tả Lủng - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "322",
+    "id": "02054",
+    "name": "Trạm y tế xã Lũng Pù",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lũng Pù - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "323",
+    "id": "02055",
+    "name": "Trạm y tế xã Lũng Chinh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lũng Chinh - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "324",
+    "id": "02061",
+    "name": "Trạm y tế Thị trấn Yên Minh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Yên Minh - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "325",
+    "id": "02063",
+    "name": "Trạm y tế xã Phú Lũng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phú Lũng - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "326",
+    "id": "02064",
+    "name": "Trạm y tế xã Sủng Tráng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Sủng Tráng - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "327",
+    "id": "02066",
+    "name": "Trạm y tế xã Na Khê",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Na Khê - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "328",
+    "id": "02068",
+    "name": "Trạm y tế xã Hữu Vinh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hữu Vinh - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "329",
+    "id": "02073",
+    "name": "Trạm y tế xã Ngam La",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngam La - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "330",
+    "id": "02074",
+    "name": "Trạm y tế xã Ngọc Long",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngọc Long - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "331",
+    "id": "02075",
+    "name": "Trạm y tế xã Đường Thượng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đường Thượng - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "332",
+    "id": "02078",
+    "name": "Trạm y tế xã Du Già",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Du Già - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "333",
+    "id": "02080",
+    "name": "Trạm y tế xã Bát Đại Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bát Đại Sơn - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "334",
+    "id": "02081",
+    "name": "Trạm y tế xã Nghĩa Thuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nghĩa Thuận - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "335",
+    "id": "02082",
+    "name": "Trạm y tế xã Cán Tỷ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cán Tỷ - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "336",
+    "id": "02084",
+    "name": "Trạm y tế xã Thanh Vân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Vân - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "337",
+    "id": "02088",
+    "name": "Trạm y tế xã Lùng Tám",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lùng Tám - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "338",
+    "id": "02090",
+    "name": "Trạm y tế xã Tả Ván",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tả Ván - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "339",
+    "id": "02091",
+    "name": "Trạm y tế xã Thái An",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thái An - Huyện Quản Bạ - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "340",
+    "id": "02092",
+    "name": "Trạm y tế Thị trấn Vị Xuyên",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Vị Xuyên - huyện Vị Xuyên - tỉnh Hà Giang"
+  },
+  {
+    "stt": "341",
+    "id": "24301",
+    "name": "Phòng khám đa khoa An Hà",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Phố Mia, xã An Hà, huyện Lạng Giang, tỉnh Bắc Giang"
+  },
+  {
+    "stt": "342",
+    "id": "79816",
+    "name": "Bệnh viện dã chiến điều trị COVID-19 Thủ Đức số 1",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 1",
+    "address": "Chung cư Bình Minh đường số 1 khu phố 4"
+  },
+  {
+    "stt": "343",
+    "id": "02094",
+    "name": "Trạm y tế xã Minh Tân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Tân - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "344",
+    "id": "02095",
+    "name": "Trạm y tế xã Thuận Hoà",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thuận Hoà - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "345",
+    "id": "02096",
+    "name": "Trạm y tế xã Tùng Bá",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tùng Bá - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "346",
+    "id": "02097",
+    "name": "Trạm y tế xã Thanh Thủy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Thủy - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "347",
+    "id": "02101",
+    "name": "Trạm y tế xã Phương Tiến",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phương Tiến - huyện Vị Xuyên - tỉnh Hà Giang"
+  },
+  {
+    "stt": "348",
+    "id": "02102",
+    "name": "Trạm y tế xã Lao Chải",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lao Chải - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "349",
+    "id": "02105",
+    "name": "Trạm y tế xã Cao Bồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cao Bồ - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "350",
+    "id": "02106",
+    "name": "Trạm y tế xã Đạo Đức",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đạo Đức - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "351",
+    "id": "02107",
+    "name": "Trạm y tế xã Thượng Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thượng Sơn - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "352",
+    "id": "02108",
+    "name": "Trạm y tế xã Linh Hồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Linh Hồ - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "353",
+    "id": "02112",
+    "name": "Trạm y tế xã Ngọc Minh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngọc Minh - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "354",
+    "id": "02114",
+    "name": "Trạm y tế xã Trung Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Thành - Huyện Vị Xuyên - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "355",
+    "id": "02115",
+    "name": "Trạm y tế xã Minh Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Sơn - Huyện Bắc Mê - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "356",
+    "id": "02116",
+    "name": "Trạm y tế xã Giáp Trung",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Giáp Trung - Huyện Bắc Mê - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "357",
+    "id": "02118",
+    "name": "Trạm y tế xã Yên Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Phú - Huyện Bắc Mê - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "358",
+    "id": "02124",
+    "name": "Trạm y tế xã Thượng Tân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thượng Tân - Huyện Bắc Mê - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "359",
+    "id": "02126",
+    "name": "Trạm y tế xã Đường Hồng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đường Hồng - Huyện Bắc Mê - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "360",
+    "id": "02128",
+    "name": "Trạm y tế Thị trấn Vinh Quang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Vinh Quang - huyện Hoàng Su Phì - tỉnh Hà Giang"
+  },
+  {
+    "stt": "361",
+    "id": "02130",
+    "name": "Trạm y tế xã Thàng Tín",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thàng Tín - huyện Hoàng Su Phì - tỉnh Hà Giang"
+  },
+  {
+    "stt": "362",
+    "id": "02132",
+    "name": "Trạm y tế xã Pố Lồ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Pố Lồ - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "363",
+    "id": "02133",
+    "name": "Trạm y tế xã Bản Phùng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bản Phùng - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "364",
+    "id": "02134",
+    "name": "Trạm y tế xã Túng Sán",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Túng Sán - huyện Hoàng Su Phì - tỉnh Hà Giang"
+  },
+  {
+    "stt": "365",
+    "id": "02138",
+    "name": "Trạm y tế xã Tân Tiến",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Tiến - huyện Hoàng Su Phì - tỉnh Hà Giang"
+  },
+  {
+    "stt": "366",
+    "id": "02139",
+    "name": "Trạm y tế xã Nàng Đôn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nàng Đôn - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "367",
+    "id": "02142",
+    "name": "Trạm y tế xã Bản Luốc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bản Luốc - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "368",
+    "id": "02143",
+    "name": "Trạm y tế xã Ngàm Đăng Vài",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngàm Đăng Vài - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "369",
+    "id": "02148",
+    "name": "Trạm y tế xã Hồ Thầu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hồ Thầu - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "370",
+    "id": "02152",
+    "name": "Trạm y tế xã Nậm Khòa",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nậm Khòa - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "371",
+    "id": "02153",
+    "name": "Trạm y tế xã Nàn Xỉn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nàn Xỉn - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "372",
+    "id": "02154",
+    "name": "Trạm y tế xã Xín Mần",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xín Mần - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "373",
+    "id": "02155",
+    "name": "Trạm y tế xã Bản Díu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bản Díu - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "374",
+    "id": "02156",
+    "name": "Trạm y tế xã Chí Cà",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Chí Cà - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "375",
+    "id": "02157",
+    "name": "Trạm y tế xã Thèn Phàng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thèn Phàng - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "376",
+    "id": "02158",
+    "name": "Trạm y tế xã Trung Thịnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Thịnh - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "377",
+    "id": "02163",
+    "name": "Trạm y tế xã Tả Nhìu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tả Nhìu - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "378",
+    "id": "02164",
+    "name": "Trạm y tế xã Thu Tà",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thu Tà - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "379",
+    "id": "02165",
+    "name": "Trạm y tế xã Nàn Ma",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nàn Ma - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "380",
+    "id": "02166",
+    "name": "Trạm y tế xã Bản Ngò",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bản Ngũ - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "381",
+    "id": "02168",
+    "name": "Trạm y tế xã Quảng Nguyên",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quảng Nguyên - huyện Xín Mần - tỉnh Hà Giang"
+  },
+  {
+    "stt": "382",
+    "id": "02172",
+    "name": "Trạm y tế Thị trấn Việt Quang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Việt Quang - huyện Bắc Quang - tỉnh Hà Giang"
+  },
+  {
+    "stt": "383",
+    "id": "02173",
+    "name": "Trạm y tế Thị trấn Vĩnh Tuy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Vĩnh Tuy - huyện Bắc Quang - tỉnh Hà Giang"
+  },
+  {
+    "stt": "384",
+    "id": "02176",
+    "name": "Trạm y tế xã Đồng Tiến",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đồng Tiến - huyện Bắc Quang - tỉnh Hà Giang"
+  },
+  {
+    "stt": "385",
+    "id": "02177",
+    "name": "Trạm y tế xã Đồng Tâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đồng Tâm - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "386",
+    "id": "02180",
+    "name": "Trạm y tế xã Hữu Sản",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hữu Sản - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "387",
+    "id": "02181",
+    "name": "Trạm y tế xã Kim Ngọc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Kim Ngọc - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "388",
+    "id": "02183",
+    "name": "Trạm y tế xã Bằng Hành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bằng Hành - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "389",
+    "id": "02184",
+    "name": "Trạm y tế xã Quang Minh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quang Minh - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "390",
+    "id": "02186",
+    "name": "Trạm y tế xã Vô Điếm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vô Điếm - huyện Bắc Quang - tỉnh Hà Giang"
+  },
+  {
+    "stt": "391",
+    "id": "02189",
+    "name": "Trạm y tế xã Đức Xuân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đức Xuân - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "392",
+    "id": "02190",
+    "name": "Trạm y tế xã Tiên Kiều",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tiên Kiều - huyện Bắc Quang - tỉnh Hà Giang"
+  },
+  {
+    "stt": "393",
+    "id": "02194",
+    "name": "Trạm y tế xã Đông Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đông Thành - Huyện Bắc Quang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "394",
+    "id": "02195",
+    "name": "Trạm y tế xã Xuân Minh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Minh - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "395",
+    "id": "02196",
+    "name": "Trạm y tế xã Tiên Nguyên",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tiên Nguyên - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "396",
+    "id": "02198",
+    "name": "Trạm y tế xã Bản Rịa",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bản Rịa - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "397",
+    "id": "02199",
+    "name": "Trạm y tế xã Yên Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Thành - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "398",
+    "id": "02202",
+    "name": "Trạm y tế xã Tân Bắc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Bắc - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "399",
+    "id": "02203",
+    "name": "Trạm y tế xã Bằng Lang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bằng Lang - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "400",
+    "id": "02204",
+    "name": "Trạm y tế xã Yên Hà",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Hà - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "401",
+    "id": "02206",
+    "name": "Phòng khám đa khoa khu vực Xuân Giang",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Giang, huyện Quang Bình, Hà Giang"
+  },
+  {
+    "stt": "402",
+    "id": "02207",
+    "name": "Trạm y tế xã Nà Khương",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nà Khương - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "403",
+    "id": "02209",
+    "name": "Trạm y tế xã Vĩ Thượng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vĩ Thượng - Huyện Quang Bình - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "404",
+    "id": "02213",
+    "name": "Phòng khám đa khoa khu vực Thông Nguyên",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thông Nguyên - Huyện Hoàng Su Phì - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "405",
+    "id": "02219",
+    "name": "Phòng khám đa khoa khu vực Mậu Duệ",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Mậu Duệ - Huyện Yên Minh - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "406",
+    "id": "02220",
+    "name": "Phòng khám đa khoa khu vực Lũng Phìn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Lũng Phìn - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "407",
+    "id": "25360",
+    "name": "Phòng khám đa khoa Hùng Vương Chân Mộng chi nhánh Chân Mộng - Công ty TNHH Phát triển Y học Việt",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn 3"
+  },
+  {
+    "stt": "408",
+    "id": "02221",
+    "name": "Phòng khám đa khoa khu vực Phố Bảng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Phố Bảng - Huyện Đồng Văn - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "409",
+    "id": "02223",
+    "name": "Phòng khám đa khoa khu vực Xín Cái",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xýn Cái - Huyện Mèo Vạc - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "410",
+    "id": "02224",
+    "name": "Phòng khám đa khoa khu vực Đường Âm",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Đường Âm - Huyện Bắc Mê - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "411",
+    "id": "02226",
+    "name": "Trung tâm y tế Thành phố Hà Giang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Trần Phú - TX Hà Giang - Tỉnh Hà Giang"
+  },
+  {
+    "stt": "412",
+    "id": "38530",
+    "name": "Trạm y tế xã Bãi Trành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Bãi Trành - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "413",
+    "id": "38532",
+    "name": "Trạm y tế xã Xuân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Bình - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "414",
+    "id": "38533",
+    "name": "Trạm y tế xã Hóa Quỳ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hóa Quỳ - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "415",
+    "id": "38536",
+    "name": "Trạm y tế xã Cát Vân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cát Vân - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "416",
+    "id": "38537",
+    "name": "Trạm y tế xã Cát Tân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Cát Tân - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "417",
+    "id": "38538",
+    "name": "Trạm y tế xã Tân Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Bình - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "418",
+    "id": "38543",
+    "name": "Trạm y tế xã Thanh Phong",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Phong - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "419",
+    "id": "38545",
+    "name": "Trạm y tế xã Thanh Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Sơn - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "420",
+    "id": "38546",
+    "name": "Trạm y tế xã Thượng Ninh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thượng Ninh - huyện Như Xuân - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "421",
+    "id": "38549",
+    "name": "Trạm y tế xã Xuân Du",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Du - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "422",
+    "id": "38552",
+    "name": "Trạm y tế xã Mậu Lâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Mậu Lâm - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "423",
+    "id": "38554",
+    "name": "Trạm y tế xã Phú Nhuận",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phú Nhuận - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "424",
+    "id": "38555",
+    "name": "Trạm y tế xã Hải Long",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hải Long - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "425",
+    "id": "38558",
+    "name": "Trạm y tế xã Xuân Phúc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Xuân Phúc - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "426",
+    "id": "38559",
+    "name": "Trạm y tế xã Yên Thọ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Thọ - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "427",
+    "id": "38560",
+    "name": "Trạm y tế xã Yên Lạc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Lạc - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "428",
+    "id": "38562",
+    "name": "Trạm y tế xã Thanh Tân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Tân - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "429",
+    "id": "38563",
+    "name": "Trạm y tế xã Thanh Kỳ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Kỳ - huyện Như Thanh - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "430",
+    "id": "38564",
+    "name": "Trạm y tế thị trấn Nông Cống",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thị Trấn Nông Cống - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "431",
+    "id": "38565",
+    "name": "Trạm y tế xã Tân Phúc",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Phúc - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "432",
+    "id": "38566",
+    "name": "Trạm y tế xã Tân Thọ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Thọ - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "433",
+    "id": "38569",
+    "name": "Trạm y tế xã Hoàng Giang",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hoàng Giang - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "434",
+    "id": "38572",
+    "name": "Trạm y tế Xã Trung Thành",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Thành - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "435",
+    "id": "38574",
+    "name": "Trạm y tế xã Tế Thắng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tế Thắng - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "436",
+    "id": "38576",
+    "name": "Trạm y tế xã Tế Lợi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tế Lợi - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "437",
+    "id": "38577",
+    "name": "Trạm y tế xã Tế Nông",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tế Nông - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "438",
+    "id": "38579",
+    "name": "Trạm y tế xã Minh Khôi",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Minh Khôi - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "439",
+    "id": "38580",
+    "name": "Trạm y tế xã Vạn Hòa",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Vạn Hòa - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "440",
+    "id": "38582",
+    "name": "Trạm y tế xã Vạn Thắng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn Phố Mới, Xã Vạn Thắng, Huyện Nông Cống, Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "441",
+    "id": "38585",
+    "name": "Trạm y tế xã Thăng Long",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thăng Long - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "442",
+    "id": "38586",
+    "name": "Trạm y tế xã Trường Minh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trường Minh - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "443",
+    "id": "38588",
+    "name": "Trạm y tế xã Thăng Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thăng Bình - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "444",
+    "id": "38589",
+    "name": "Trạm y tế xã Công Liêm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Công Liêm - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "445",
+    "id": "38590",
+    "name": "Trạm y tế xã Tượng Văn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tượng Văn - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "446",
+    "id": "38593",
+    "name": "Trạm y tế xã Tượng Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tượng Sơn - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "447",
+    "id": "38594",
+    "name": "Trạm y tế xã Công Chính",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Công Chính - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "448",
+    "id": "38596",
+    "name": "Trạm Y tế xã Yên Mỹ",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Yên Mỹ - huyện Nông Cống - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "449",
+    "id": "38597",
+    "name": "Trạm y tế thị trấn Rừng Thông",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Khu phố Nhuệ Sâm, Thị Trấn Rừng Thông - huyện Đông Sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "450",
+    "id": "38645",
+    "name": "Trạm y tế phường Quảng Phú",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Quảng Phú - Thành phố Thanh Hóa - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "451",
+    "id": "38646",
+    "name": "Trạm y tế phường Quảng Tâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Quảng Tâm - Thành phố Thanh Hóa - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "452",
+    "id": "38649",
+    "name": "Trạm y tế phường Quảng Vinh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Quảng Vinh - TP Sầm Sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "453",
+    "id": "38652",
+    "name": "Trạm y tế xã Quảng Lưu",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quảng Lưu - huyện Quảng Xương - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "454",
+    "id": "38655",
+    "name": "Trạm y tế xã Quảng Nham",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quảng Nham - huyện Quảng Xương - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "455",
+    "id": "38656",
+    "name": "Trạm y tế xã Quảng Thạch",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quảng Thạch - huyện Quảng Xương - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "456",
+    "id": "38657",
+    "name": "Trạm y tế xã Quảng Thái",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Quảng Thái - huyện Quảng Xương - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "457",
+    "id": "38658",
+    "name": "Trạm y tế phường Hải Hòa",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hải Hòa,Thị Xã Nghi Sơn,Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "458",
+    "id": "38660",
+    "name": "Trạm y tế xã Thanh Thủy",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Thủy - thị xã nghi sơn- tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "459",
+    "id": "38661",
+    "name": "Trạm y tế xã Thanh Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Thanh Sơn - Thị xã Nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "460",
+    "id": "38663",
+    "name": "Trạm y tế phường Hải Ninh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hải Ninh, thị xã Nghi Sơn, tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "461",
+    "id": "38664",
+    "name": "Trạm y tế xã Anh Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Anh Sơn - Thị xã nghi sơn- tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "462",
+    "id": "38665",
+    "name": "Trạm y tế xã Ngọc Lĩnh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Ngọc Lĩnh - Thị xã Nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "463",
+    "id": "38666",
+    "name": "Trạm y tế phường Hải An",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hải Bình ,Thị Xã Nghi Sơn,Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "464",
+    "id": "38669",
+    "name": "Trạm y tế phường Tân Dân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Tân Dân - thị xã Nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "465",
+    "id": "38671",
+    "name": "Trạm y tế xã Định Hải",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Định Hải - Thị xã nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "466",
+    "id": "38672",
+    "name": "Trạm y tế xã Phú Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phú Sơn - Thị xã Nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "467",
+    "id": "38673",
+    "name": "Trạm y tế phường Ninh Hải",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Ninh Hải - thị xã Nghi sơn- tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "468",
+    "id": "38674",
+    "name": "Trạm y tế phường Nguyên Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Nguyên Bình -thị xã Nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "469",
+    "id": "38675",
+    "name": "Trạm y tế xã Hải Nhân",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hải Nhân - Thị xã nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "470",
+    "id": "38677",
+    "name": "Trạm y tế phường Bình Minh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Bình Minh, thị xã Nghi Sơn, tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "471",
+    "id": "38678",
+    "name": "Trạm y tế phường Hải Thanh",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Hải Thanh, thị xã Nghi Sơn, tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "472",
+    "id": "38679",
+    "name": "Trạm y tế xã Phú Lâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Phú Lâm - Thị xã Nghi Sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "473",
+    "id": "38680",
+    "name": "Trạm y tế phường Xuân Lâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "phường Xuân Lâm - Thị xã nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "474",
+    "id": "38682",
+    "name": "Trạm y tế phường Hải Bình",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hải Bình ,Thị Xã Nghi Sơn,Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "475",
+    "id": "38683",
+    "name": "Trạm y tế xã Tân Trường",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Tân Trường - Thị xã nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "476",
+    "id": "38687",
+    "name": "Trạm y tế xã Trường Lâm",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trường Lâm - huyện Tĩnh Gia - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "477",
+    "id": "38688",
+    "name": "Trạm y tế xã Hải Yến",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Hải Yến - Thị xã nghi sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "478",
+    "id": "38689",
+    "name": "Trạm y tế phường Hải Thượng",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Phường Hải Thượng, thị xã Nghi Sơn, tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "479",
+    "id": "38690",
+    "name": "Trạm y tế xã Nghi Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nghi Sơn - thị xã Nghi Sơn - tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "480",
+    "id": "38698",
+    "name": "Trạm y tế xã Định Công",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Định Công - Huyện Yên Định - Tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "481",
+    "id": "38700",
+    "name": "Chi nhánh Phòng khám đa khoa Phòng mạch - Công ty cổ phần Dược - VTYT Thanh Hóa",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "95 Lê Hoàn, Phường Lam Sơn, TP Thanh Hóa"
+  },
+  {
+    "stt": "482",
+    "id": "38713",
+    "name": "Bệnh viện Tâm An",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "257 đường Nguyễn Trãi Phường Tân Sơn - Tp Thanh Hóa - Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "483",
+    "id": "38715",
+    "name": "Phòng khám đa khoa 123",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn 4 - xã quảng lưu - quảng xương - Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "484",
+    "id": "38718",
+    "name": "Bệnh viện mắt Bình Tâm",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Lô 03+04 Quang Trung 3, phường Đông Vệ Thành phố Thanh Hóa, Thanh Hoá"
+  },
+  {
+    "stt": "485",
+    "id": "38719",
+    "name": "Bệnh viện mắt Bắc Trung Nam",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Lô 02,03,04 Mai An Tiêm, phương Lam Sơn, thành phố Thanh Hóa, Thanh Hoá"
+  },
+  {
+    "stt": "486",
+    "id": "38720",
+    "name": "Bệnh viện đa khoa Tâm Đức Cầu Quan",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thôn Bi Kiều, xã Trung Chính, huyện Nông Cống, tỉnh Thanh Hoá"
+  },
+  {
+    "stt": "487",
+    "id": "38721",
+    "name": "Bệnh viện đa khoa Hàm Rồng",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Hoằng Quỳ - Hoằng Hóa - tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "488",
+    "id": "38722",
+    "name": "Phòng khám đa khoa Giang Sơn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn Lụa - Xã Cẩm Sơn - Huyện Cẩm Thủy - Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "489",
+    "id": "38725",
+    "name": "Bệnh viện đa khoa Thanh Hà",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Khu Đô Thị Bắc Đại lộ Lê Lợi, Phường Đông Hương, Thành phốThanh Hóa"
+  },
+  {
+    "stt": "490",
+    "id": "38728",
+    "name": "Trạm y tế xã Nhi Sơn",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Nhi Sơn, Huyện Mường Lát"
+  },
+  {
+    "stt": "491",
+    "id": "38729",
+    "name": "Trạm y tế xã Trung Tiến",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "Xã Trung Tiến, Huyện Quan Sơn"
+  },
+  {
+    "stt": "492",
+    "id": "38731",
+    "name": "Phòng khám đa khoa An Phước - 68",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Chưa xếp hạng",
+    "address": "Thôn Thọ Phú, xã Kiên Thọ, huyện Ngọc lặc, tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "493",
+    "id": "38732",
+    "name": "Bệnh viện đa khoa Trí Đức Thành",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Thôn Thành Phú, xã Định Tường, huyện Yên Định, Tỉnh Thanh Hóa"
+  },
+  {
+    "stt": "494",
+    "id": "89348",
+    "name": "Trạm y tế thị trấn Óc Eo",
+    "tuyetCMKT": "Tuyến xã",
+    "rank": "Chưa xếp hạng",
+    "address": "ấp Tân Hiệp B, thị trấn Óc Eo, huyện Thoại Sơn, tỉnh An Giang"
+  },
+  {
+    "stt": "495",
+    "id": "40001",
+    "name": "Bệnh viện hữu nghị đa khoa tỉnh Nghệ An",
+    "tuyetCMKT": "Tuyến tỉnh",
+    "rank": "Hạng 1",
+    "address": "TP Vinh - Tỉnh Nghệ An"
+  },
+  {
+    "stt": "496",
+    "id": "40002",
+    "name": "Trung tâm y tế huyện Hưng Nguyên",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Hưng Nguyên - Tỉnh Nghệ An"
+  },
+  {
+    "stt": "497",
+    "id": "40003",
+    "name": "Trung tâm y tế huyện Nam Đàn",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 3",
+    "address": "Huyện Nam Đàn - Tỉnh Nghệ An"
+  },
+  {
+    "stt": "498",
+    "id": "40005",
+    "name": "Bệnh viện đa khoa huyện Đô Lương",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Huyện Đô Lương - Tỉnh Nghệ An"
+  },
+  {
+    "stt": "499",
+    "id": "40007",
+    "name": "Bệnh viện đa khoa huyện Diễn Châu",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Huyện Diễn Châu - Tỉnh Nghệ An"
+  },
+  {
+    "stt": "500",
+    "id": "40008",
+    "name": "Bệnh viện đa khoa huyện Quỳnh Lưu",
+    "tuyetCMKT": "Tuyến huyện",
+    "rank": "Hạng 2",
+    "address": "Huyện Quỳnh Lưu - Tỉnh Nghệ An"
+  }
+]
