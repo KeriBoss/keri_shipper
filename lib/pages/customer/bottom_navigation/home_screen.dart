@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:keri_shipper/constants/color_palette.dart';
 import 'package:keri_shipper/constants/constant.dart';
+import 'package:keri_shipper/pages/customer/bottom_navigation/home_page_controller.dart';
+import 'package:keri_shipper/pages/customer/find_rider/find_rider_page.dart';
+import 'package:keri_shipper/pages/customer/transport_page/transport_view.dart';
 import 'package:keri_shipper/widgets/grab_icon_menu.dart';
 import 'package:keri_shipper/widgets/grab_more_icon_menu.dart';
 
@@ -13,6 +16,10 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  
+HomePageController controller =
+      Get.put(HomePageController(), permanent: true);
+
   @override
   Widget build(BuildContext context) {
     return Column(
@@ -134,14 +141,22 @@ class _HomeScreenState extends State<HomeScreen> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: <Widget>[
-                  GrabIconMenu(
-                    image: "assets/images/feature/car.png",
-                    title: "Ô tô",
-                  ),
-                  GrabIconMenu(
-                    image: "assets/images/feature/bike.png",
-                    title: "Xe máy",
-                  ),
+                  GestureDetector(
+                      onTap: () {
+                        Get.to(() => TransportPage());
+                      },
+                      child: GrabIconMenu(
+                        image: "assets/images/feature/car.png",
+                        title: "Ô tô",
+                      )),
+                  GestureDetector(
+                      onTap: () {
+                        Get.to(() => FindRiderPage());
+                      },
+                      child: GrabIconMenu(
+                        image: "assets/images/feature/bike.png",
+                        title: "Xe máy",
+                      )),
                   GrabIconMenu(
                     image: "assets/images/feature/food.png",
                     title: "Food",

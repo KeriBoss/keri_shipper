@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
-import 'package:keri_shipper/pages/chat_page/chat_page_view.dart';
-import 'package:keri_shipper/pages/hoat_dong/hoat_dong_view.dart';
+import 'package:keri_shipper/pages/customer/chat_page/chat_page_view.dart';
+import 'package:keri_shipper/pages/customer/hoat_dong/hoat_dong_view.dart';
+import 'package:keri_shipper/pages/customer/setting/settingPage.dart';
+
 import 'package:keri_shipper/widgets/grab_bottom_navigation_item.dart';
 
 import 'package:panara_dialogs/panara_dialogs.dart';
@@ -27,9 +29,7 @@ class _MainScreenState extends State<MainScreen> {
       child: Text("Payment"),
     ),
     ChatScreen(),
-    SafeArea(
-      child: Text("Account"),
-    ),
+    SettingPage(),
   ];
 
   bool _isVisible = true;

@@ -1,3 +1,6 @@
+import 'package:geolocator/geolocator.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+
 class UserModel {
   late String? id;
   late String username;
@@ -21,6 +24,7 @@ class UserModel {
   late String? thongTinThem;
   late String? trangThai;
   late String? tenBe;
+  late LatLng? position;
   late bool? firstLogin;
   late bool? active = false;
   late bool? daSinh = false;
@@ -56,7 +60,8 @@ class UserModel {
       this.firstLogin,
       this.duSinh,
       this.tenBe,
-      this.taiKhoanVip});
+      this.taiKhoanVip,
+      this.position});
 
   UserModel.fromJson(Map<String, dynamic> json)
       : id = json['id'],
@@ -77,6 +82,7 @@ class UserModel {
         token = json['token'] ?? "",
         tichDiem = json['tichDiem'] ?? 0,
         latitude = json['latitude'] ?? 0,
+        position = LatLng(json['latitude'] ?? 0, json['longtitude'] ?? 0),
         longtitude = json['longtitude'] ?? 0,
         thongTinThem = json['thongTinThem'],
         money = json['money'] ?? 0,

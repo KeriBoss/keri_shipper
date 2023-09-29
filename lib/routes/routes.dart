@@ -1,7 +1,7 @@
 import 'package:get/get_navigation/src/routes/get_route.dart';
 import 'package:keri_shipper/TaiKhoan/login/view.dart';
-import 'package:keri_shipper/pages/bottom_navigation/home_screen.dart';
-import 'package:keri_shipper/pages/bottom_navigation/main_screen.dart';
+import 'package:keri_shipper/pages/customer/bottom_navigation/main_screen.dart';
+
 import 'package:keri_shipper/pages/splash/spashPage.dart';
 
 class Routes {
