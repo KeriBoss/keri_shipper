@@ -5,6 +5,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
 import 'package:keri_shipper/TaiKhoan/forgotPass/forGotPassController.dart';
 import 'package:keri_shipper/TaiKhoan/register/view.dart';
+import 'package:keri_shipper/TaiKhoan/register_driver/register_driver_view.dart';
 import 'package:keri_shipper/constants/Header_widget.dart';
 import 'package:keri_shipper/constants/color_constants.dart';
 import 'package:keri_shipper/constants/color_palette.dart';
@@ -187,16 +188,46 @@ class LoginPage extends StatelessWidget {
                                       //child: Text('Don\'t have an account? Create'),
                                       child: Text.rich(TextSpan(children: [
                                         const TextSpan(
-                                            text: "Bạn chưa có tài khoản ",
+                                            text: "Bạn chưa có tài khoản",
                                             style: const TextStyle(
                                               fontWeight: FontWeight.bold,
                                               fontSize: 16,
                                             )),
                                         TextSpan(
-                                          text: ' Đăng ký ngay',
+                                          text: ' Đăng ký',
                                           recognizer: TapGestureRecognizer()
                                             ..onTap = () {
                                               Get.to(() => ResgisterPage());
+                                              //Navigator.push(context, MaterialPageRoute(builder: (context) => RegistrationPage()));
+                                            },
+                                          style: const TextStyle(
+                                              fontWeight: FontWeight.bold,
+                                              fontSize: 16,
+                                              color:
+                                                  ColorConstants.primaryColor),
+                                        ),
+                                      ])),
+                                    ),
+                                    Container(
+                                      margin: const EdgeInsets.only(
+                                          bottom: 5,
+                                          left: 10,
+                                          right: 10,
+                                          top: 10),
+                                      //child: Text('Don\'t have an account? Create'),
+                                      child: Text.rich(TextSpan(children: [
+                                        const TextSpan(
+                                            text: "Bạn muốn đăng ký tài xế ",
+                                            style: const TextStyle(
+                                              fontWeight: FontWeight.bold,
+                                              fontSize: 16,
+                                            )),
+                                        TextSpan(
+                                          text: ' Đăng ký',
+                                          recognizer: TapGestureRecognizer()
+                                            ..onTap = () {
+                                              Get.to(
+                                                  () => RegisterDriverPage());
                                               //Navigator.push(context, MaterialPageRoute(builder: (context) => RegistrationPage()));
                                             },
                                           style: const TextStyle(

@@ -1,5 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:geocoding/geocoding.dart';
@@ -78,150 +80,176 @@ class _PickerLocationPageState extends State<PickerLocationPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: cameraPosition == null
-          ? Loading()
-          : Stack(
-              children: [
-                MapPicker(
-                  // pass icon widget
-                  iconWidget: Image.asset(
-                    'assets/images/ic_picker_map.png',
-                    width: 25,
-                    height: 25,
-                  ),
-                  //add map picker controller
-                  mapPickerController: mapPickerController,
-                  child: GoogleMap(
-                    myLocationEnabled: true,
-                    mapType: MapType.normal,
-                    tiltGesturesEnabled: true,
-                    compassEnabled: false,
-                    //  camera position
-                    initialCameraPosition: cameraPosition!,
-                    onMapCreated: (GoogleMapController controller) {
-                      _controller.complete(controller);
-                    },
-                    onCameraMoveStarted: () {
-                      // notify map is moving
-                      mapPickerController.mapMoving!();
-                      textController.text = "checking ...";
-                    },
-                    onCameraMove: (cameraPosition) {
-                      this.cameraPosition = cameraPosition;
-                    },
-                    onCameraIdle: () async {
-                      // notify map stopped moving
-                      mapPickerController.mapFinishedMoving!();
-                      //get address name from camera position
-                      // List<Placemark> placemarks = await placemarkFromCoordinates(
-                      //   cameraPosition!.target.latitude,
-                      //   cameraPosition!.target.longitude,
-                      // );
-                      // // update the ui with the address
-                      // subTextController.text = '${placemarks.first.street}';
-                      //     //'${placemarks.first.thoroughfare == "" ? "" : "${placemarks.first.thoroughfare} "}';
-                      // textController.text = ''
-                      //     '${placemarks.first.street}, '
-                      //     //'${placemarks.first.thoroughfare == "" ? "" : "${placemarks.first.thoroughfare}, "}'
-                      //     '${placemarks.first.subAdministrativeArea == "" ? "" : "${placemarks.first.subAdministrativeArea}, "}'
-                      //     '${placemarks.first.administrativeArea == "" ? "" : "${placemarks.first.administrativeArea}"}';
-                      textController.clear();
-                      subTextController.clear();
-                      await pickData().then((value) {
-                        textController.text = value.address;
-                        subTextController.text = value.addressData.values.first;
-                        setState(() {});
-                      });
-                    },
-                  ),
-                ),
-                Positioned(
-                  bottom: 0,
-                  child: Container(
-                    width: 100.w,
-                    color: Colors.white,
-                    padding: const EdgeInsets.all(16),
-                    child: Column(
-                      children: [
-                        textController.text.isNotEmpty
-                            ? Container(
-                                padding: const EdgeInsets.all(16),
-                                color: const Color(0xffEAEAEA),
-                                child: Row(
-                                  children: [
-                                    const Icon(
-                                      Icons.location_on_rounded,
-                                      color: Colors.red,
-                                      size: 30,
-                                    ),
-                                    const SizedBox(
-                                      width: 15,
-                                    ),
-                                    Expanded(
-                                      child: Column(
-                                        crossAxisAlignment:
-                                            CrossAxisAlignment.start,
-                                        children: [
-                                          Text(
-                                            subTextController.text,
-                                            style: TextStyles.defaultStyle.bold,
-                                          ),
-                                          const SizedBox(
-                                            height: 5,
-                                          ),
-                                          Text(
-                                            textController.text,
-                                            style:
-                                                TextStyles.defaultStyle.light,
-                                          ),
-                                        ],
-                                      ),
-                                    )
-                                  ],
-                                ))
-                            : const SizedBox(
-                                height: 54,
-                                child: SpinKitThreeBounce(
-                                  color: Colors.grey,
-                                  size: 20,
-                                )),
-                        const SizedBox(
-                          height: 16,
+        body: Stack(
+      children: [
+        cameraPosition == null
+            ? Loading()
+            : Stack(
+                children: [
+                  MapPicker(
+                    // pass icon widget
+                    iconWidget: Image.asset(
+                      'assets/images/ic_picker_map.png',
+                      width: 25,
+                      height: 25,
+                    ),
+                    //add map picker controller
+                    mapPickerController: mapPickerController,
+                    child: GoogleMap(
+                      myLocationEnabled: true,
+                      scrollGesturesEnabled: true,
+                      gestureRecognizers:
+                          <Factory<OneSequenceGestureRecognizer>>[
+                        new Factory<OneSequenceGestureRecognizer>(
+                          () => new EagerGestureRecognizer(),
                         ),
-                        GestureDetector(
-                          onTap: () {
-                            if (widget.location != null) {
-                              widget.location!(
-                                  textController.text,
-                                  LatLng(
-                                    cameraPosition!.target.latitude,
-                                    cameraPosition!.target.longitude,
-                                  ));
-                              Get.close(1);
-                            }
-                          },
-                          child: Container(
-                              width: 100.w,
-                              padding: const EdgeInsets.all(16),
-                              decoration: BoxDecoration(
-                                borderRadius: BorderRadius.circular(8),
-                                color: ColorPalette.secondColor,
-                              ),
-                              child: Center(
-                                child: Text(
-                                  "Xác nhận điểm đến / đi",
-                                  style: TextStyles
-                                      .defaultStyle.semiBold.whiteTextColor
-                                      .setTextSize(18),
-                                ),
-                              )),
-                        ),
-                      ],
+                      ].toSet(),
+                      mapType: MapType.normal,
+                      tiltGesturesEnabled: true,
+                      compassEnabled: false,
+                      //  camera position
+                      initialCameraPosition: cameraPosition!,
+                      onMapCreated: (GoogleMapController controller) {
+                        _controller.complete(controller);
+                      },
+                      onCameraMoveStarted: () {
+                        // notify map is moving
+                        mapPickerController.mapMoving!();
+                        textController.text = "checking ...";
+                      },
+                      onCameraMove: (cameraPosition) {
+                        this.cameraPosition = cameraPosition;
+                      },
+                      onCameraIdle: () async {
+                        // notify map stopped moving
+                        mapPickerController.mapFinishedMoving!();
+                        //get address name from camera position
+                        // List<Placemark> placemarks = await placemarkFromCoordinates(
+                        //   cameraPosition!.target.latitude,
+                        //   cameraPosition!.target.longitude,
+                        // );
+                        // // update the ui with the address
+                        // subTextController.text = '${placemarks.first.street}';
+                        //     //'${placemarks.first.thoroughfare == "" ? "" : "${placemarks.first.thoroughfare} "}';
+                        // textController.text = ''
+                        //     '${placemarks.first.street}, '
+                        //     //'${placemarks.first.thoroughfare == "" ? "" : "${placemarks.first.thoroughfare}, "}'
+                        //     '${placemarks.first.subAdministrativeArea == "" ? "" : "${placemarks.first.subAdministrativeArea}, "}'
+                        //     '${placemarks.first.administrativeArea == "" ? "" : "${placemarks.first.administrativeArea}"}';
+                        textController.clear();
+                        subTextController.clear();
+                        await pickData().then((value) {
+                          textController.text = value.address;
+                          subTextController.text =
+                              value.addressData.values.first;
+                          setState(() {});
+                        });
+                      },
                     ),
                   ),
-                ),
-              ],
+                  Positioned(
+                    bottom: 0,
+                    child: Container(
+                      width: 100.w,
+                      color: Colors.white,
+                      padding: const EdgeInsets.all(16),
+                      child: Column(
+                        children: [
+                          textController.text.isNotEmpty
+                              ? Container(
+                                  padding: const EdgeInsets.all(16),
+                                  color: const Color(0xffEAEAEA),
+                                  child: Row(
+                                    children: [
+                                      const Icon(
+                                        Icons.location_on_rounded,
+                                        color: Colors.red,
+                                        size: 30,
+                                      ),
+                                      const SizedBox(
+                                        width: 15,
+                                      ),
+                                      Expanded(
+                                        child: Column(
+                                          crossAxisAlignment:
+                                              CrossAxisAlignment.start,
+                                          children: [
+                                            Text(
+                                              subTextController.text,
+                                              style:
+                                                  TextStyles.defaultStyle.bold,
+                                            ),
+                                            const SizedBox(
+                                              height: 5,
+                                            ),
+                                            Text(
+                                              textController.text,
+                                              style:
+                                                  TextStyles.defaultStyle.light,
+                                            ),
+                                          ],
+                                        ),
+                                      )
+                                    ],
+                                  ))
+                              : const SizedBox(
+                                  height: 54,
+                                  child: SpinKitThreeBounce(
+                                    color: Colors.grey,
+                                    size: 20,
+                                  )),
+                          const SizedBox(
+                            height: 16,
+                          ),
+                          GestureDetector(
+                            onTap: () {
+                              if (widget.location != null) {
+                                widget.location!(
+                                    textController.text,
+                                    LatLng(
+                                      cameraPosition!.target.latitude,
+                                      cameraPosition!.target.longitude,
+                                    ));
+                                Get.close(1);
+                              }
+                            },
+                            child: Container(
+                                width: 100.w,
+                                padding: const EdgeInsets.all(16),
+                                decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(8),
+                                  color: ColorPalette.primaryColor,
+                                ),
+                                child: Center(
+                                  child: Text(
+                                    "Xác nhận điểm đến / đi",
+                                    style: TextStyles
+                                        .defaultStyle.semiBold.whiteTextColor
+                                        .setTextSize(18),
+                                  ),
+                                )),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+        Positioned(
+          top: 10,
+          left: 15,
+          child: IconButton(
+            icon: const Icon(
+              Icons.arrow_back,
+              color: Colors.black,
+              size: 30,
             ),
-    );
+            onPressed: () {
+              Get.close(1);
+            },
+          ),
+        ),
+      ],
+    ));
   }
 }

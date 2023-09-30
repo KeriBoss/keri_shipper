@@ -173,7 +173,7 @@ class FormToPage extends StatelessWidget {
                         margin: const EdgeInsets.symmetric(
                             vertical: 16, horizontal: 24),
                         decoration: BoxDecoration(
-                            color: ColorPalette.secondColor,
+                            color: ColorPalette.primaryColor,
                             borderRadius: BorderRadius.circular(32)),
                         child: Center(
                             child: Text(

@@ -9,7 +9,6 @@ import 'package:sizer/sizer.dart';
 import 'chon_xe_controller.dart';
 
 class ChonXePage extends StatelessWidget {
-
   var controller = Get.put(ChonXeController());
 
   @override
@@ -35,14 +34,14 @@ class ChonXePage extends StatelessWidget {
               top: 10,
               left: 15,
               child: IconButton(
-                icon: const Icon(Icons.arrow_back,
+                icon: const Icon(
+                  Icons.arrow_back,
                   color: Colors.black,
                   size: 30,
                 ),
                 onPressed: () {
                   Get.close(1);
                 },
-
               ),
             )
           ],
@@ -67,23 +66,28 @@ class ChonXePage extends StatelessWidget {
                   color: Colors.grey.shade300,
                   offset: const Offset(0, 5),
                   blurRadius: 2,
-                  spreadRadius: 2
-              )
-            ]
-        ),
+                  spreadRadius: 2)
+            ]),
         child: Row(
           children: [
             Image.asset(
-              'assets/images/feature/grab_bike.png', width: 50, height: 50,),
-            const SizedBox(width: 15,),
+              'assets/images/feature/grab_bike.png',
+              width: 50,
+              height: 50,
+            ),
+            const SizedBox(
+              width: 15,
+            ),
             // Obx(() {
             //   return controller.isFind.value == false ?
             //   Text("Đang tìm xe", style: TextStyles.defaultStyle.medium.setTextSize(24),) :
             //   Text("Đang kết nối bạn với tài xế", style: TextStyles.defaultStyle.medium.setTextSize(22),)
             //   ;
             // }),
-            Text("Đang kết nối bạn với tài xế...",
-              style: TextStyles.defaultStyle.medium.setTextSize(20),)
+            Text(
+              "Đang kết nối bạn với tài xế...",
+              style: TextStyles.defaultStyle.medium.setTextSize(20),
+            )
           ],
         ),
       ),
@@ -100,20 +104,21 @@ class ChonXePage extends StatelessWidget {
           decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: const BorderRadius.only(
-                  topLeft: Radius.circular(20),
-                  topRight: Radius.circular(20)
-              ),
+                  topLeft: Radius.circular(20), topRight: Radius.circular(20)),
               boxShadow: [
                 BoxShadow(
                     color: Colors.grey.withOpacity(.8),
                     offset: const Offset(3, 2),
                     blurRadius: 7)
-              ]
-          ),
+              ]),
           child: ListView(
             controller: scrollController,
             children: [
-              const Icon(Icons.remove, size: 50, color: Colors.grey,),
+              const Icon(
+                Icons.remove,
+                size: 50,
+                color: Colors.grey,
+              ),
               Obx(() {
                 return ListView.builder(
                   shrinkWrap: true,
@@ -138,15 +143,17 @@ class ChonXePage extends StatelessWidget {
                 },
                 child: Container(
                   height: 54,
-                  margin: const EdgeInsets.symmetric(
-                      horizontal: 24, vertical: 16),
+                  margin:
+                      const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
                   decoration: BoxDecoration(
-                      color: ColorPalette.secondColor,
-                      borderRadius: BorderRadius.circular(32)
-                  ),
-                  child: Center(child: Text("Đặt xe",
+                      color: ColorPalette.primaryColor,
+                      borderRadius: BorderRadius.circular(32)),
+                  child: Center(
+                      child: Text(
+                    "Đặt xe",
                     style: TextStyles.defaultStyle.semiBold.whiteTextColor
-                        .setTextSize(18),)),
+                        .setTextSize(18),
+                  )),
                 ),
               )
             ],
@@ -161,9 +168,9 @@ class ChonXePage extends StatelessWidget {
       children: [
         Obx(() {
           return Container(
-            color: controller.selectedIndex.value == index ?
-            const Color(0xff006491).withOpacity(0.2) :
-            Colors.white,
+            color: controller.selectedIndex.value == index
+                ? const Color(0xff006491).withOpacity(0.2)
+                : Colors.white,
             padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
             child: Column(
               children: [
@@ -172,27 +179,38 @@ class ChonXePage extends StatelessWidget {
                   children: [
                     Row(
                       children: [
-                        typeCar == 'bike' ? Image.asset(
-                          'assets/images/feature/grab_bike.png',
-                          width: 50,
-                          height: 50,
-                        ) : Image.asset('assets/images/feature/grab_car.png',
-                          width: 50,
-                          height: 50,
+                        typeCar == 'bike'
+                            ? Image.asset(
+                                'assets/images/feature/grab_bike.png',
+                                width: 50,
+                                height: 50,
+                              )
+                            : Image.asset(
+                                'assets/images/feature/grab_car.png',
+                                width: 50,
+                                height: 50,
+                              ),
+                        const SizedBox(
+                          width: 8,
                         ),
-                        const SizedBox(width: 8,),
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text(typeCar == 'bike' ? "GrabBike" : "GrabCar",
+                            Text(
+                              typeCar == 'bike' ? "GrabBike" : "GrabCar",
                               style: TextStyles.defaultStyle.semiBold
-                                  .setTextSize(18),),
-                            const SizedBox(height: 5,),
-                            Text(typeCar == 'bike'
-                                ? "Xe tay ga"
-                                : "Tối đa 4 hành khách", style: TextStyles
-                                .defaultStyle.greyTextColor.medium.setTextSize(
-                                14)),
+                                  .setTextSize(18),
+                            ),
+                            const SizedBox(
+                              height: 5,
+                            ),
+                            Text(
+                                typeCar == 'bike'
+                                    ? "Xe tay ga"
+                                    : "Tối đa 4 hành khách",
+                                style: TextStyles
+                                    .defaultStyle.greyTextColor.medium
+                                    .setTextSize(14)),
                           ],
                         )
                       ],
@@ -200,23 +218,27 @@ class ChonXePage extends StatelessWidget {
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
-                        Text("110.000đ",
-                          style: TextStyles.defaultStyle.semiBold.setTextSize(
-                              18),),
-                        const SizedBox(height: 5,),
-                        Text("6 - 11 phút",
+                        Text(
+                          "110.000đ",
+                          style:
+                              TextStyles.defaultStyle.semiBold.setTextSize(18),
+                        ),
+                        const SizedBox(
+                          height: 5,
+                        ),
+                        Text(
+                          "6 - 11 phút",
                           style: TextStyles.defaultStyle.greyTextColor.medium
-                              .setTextSize(14),),
+                              .setTextSize(14),
+                        ),
                       ],
                     )
                   ],
                 ),
-
               ],
             ),
           );
         }),
-
         Container(
           margin: const EdgeInsets.symmetric(horizontal: 24),
           height: 2,
@@ -225,7 +247,4 @@ class ChonXePage extends StatelessWidget {
       ],
     );
   }
-
 }
-
-

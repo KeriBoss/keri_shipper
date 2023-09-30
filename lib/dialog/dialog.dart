@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:keri_shipper/constants/textstyle_ext.dart';
 
 class DiaLog {
   static showIndicatorDialog() {
@@ -15,6 +16,41 @@ class DiaLog {
                 strokeWidth: 2,
               )),
         ),
+      ),
+    );
+  }
+
+  static showDiaLogOke({
+    required String title,
+    required String content,
+    required Function accept,
+    barrierDismissible = false,
+  }) {
+    return Get.dialog(
+      barrierDismissible: barrierDismissible,
+      AlertDialog(
+        title: Text(title),
+        titleTextStyle:
+            TextStyles.defaultStyle.setColor(Colors.blue).setTextSize(20),
+        content: Text(content),
+        contentTextStyle: TextStyles.defaultStyle,
+        actions: [
+          // TextButton(
+          //     style: TextButton.styleFrom(
+          //
+          //     ),
+          //     onPressed: () => accept(),
+          //     child: Text(
+          //       "Oke",
+          //       style: TextStyles.defaultStyle.setColor(Colors.green),)
+          // )
+
+          OutlinedButton(
+            onPressed: () => accept(),
+            child: Text("Oke",
+                style: TextStyles.defaultStyle.setColor(Colors.green)),
+          ),
+        ],
       ),
     );
   }
